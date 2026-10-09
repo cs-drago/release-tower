@@ -268,15 +268,21 @@
       "youtube": null,
       "x": null,
       "release": {
-        "title": "What If I Call",
+        "title": "Stuck on You",
         "type": "single",
-        "date": "2026-07-31",
+        "date": "2026-10-09",
         "presave_url": null,
-        "focus_track": "What If I Call",
+        "focus_track": "Stuck on You",
         "tracklist": [
-          "What If I Call"
+          "Stuck on You"
         ],
         "released_singles": [
+          {
+            "name": "Stuck on You",
+            "track_id": "0dLrM9SueB4RmdxSWEc7fh",
+            "album_id": "3QjrVoDWDMx0pSV34mLM0o",
+            "date": "2026-10-09"
+          },
           {
             "name": "What If I Call",
             "track_id": "3zBdVzYsuqVPyMk1YFiPcg",
@@ -297,18 +303,19 @@
           }
         ],
         "album_ids_to_track": [
+          "3QjrVoDWDMx0pSV34mLM0o",
           "4yazxGFraz7lO9omZNEues",
           "0cdvzZDvGBQgUjVOn5U4b0",
           "3oLe51Hg28mVZytzuPGpUo"
         ],
-        "ep_album_id": null
+        "ep_album_id": "3QjrVoDWDMx0pSV34mLM0o"
       },
       "catalog_album_ids": [
         "4tBtqVg9XCTtPkxHGynwNb",
         "78jbxFombQ239BP49tLPHL",
         "4PcwH71CEDE4WcfQBjLiHQ"
       ],
-      "catalog_note": "Singles-only career since 2022. 'Merry Christmas, i miss you' (Dec 2024) is an evergreen seasonal engine.",
+      "catalog_note": "Singles-only career since 2022. 'What If I Call' (Jul 31 2026) is the breakout at ~900k plays a day; 'Merry Christmas, i miss you' (Dec 2024) is the seasonal engine and already climbing in October.",
       "checklist": [],
       "tour": [],
       "same_day_releases": []

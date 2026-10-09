@@ -3,15 +3,21 @@
  "slug": "alex-crichton",
  "label": "Warner Records",
  "release": {
-  "title": "What If I Call",
+  "title": "Stuck on You",
   "type": "single",
-  "date": "2026-07-31",
+  "date": "2026-10-09",
   "presave_url": null,
-  "focus_track": "What If I Call",
+  "focus_track": "Stuck on You",
   "tracklist": [
-   "What If I Call"
+   "Stuck on You"
   ],
   "released_singles": [
+   {
+    "name": "Stuck on You",
+    "track_id": "0dLrM9SueB4RmdxSWEc7fh",
+    "album_id": "3QjrVoDWDMx0pSV34mLM0o",
+    "date": "2026-10-09"
+   },
    {
     "name": "What If I Call",
     "track_id": "3zBdVzYsuqVPyMk1YFiPcg",
@@ -32,15 +38,16 @@
    }
   ],
   "album_ids_to_track": [
+   "3QjrVoDWDMx0pSV34mLM0o",
    "4yazxGFraz7lO9omZNEues",
    "0cdvzZDvGBQgUjVOn5U4b0",
    "3oLe51Hg28mVZytzuPGpUo"
   ],
-  "ep_album_id": null
+  "ep_album_id": "3QjrVoDWDMx0pSV34mLM0o"
  },
  "tour": [],
  "same_day_releases": [],
- "catalog_note": "Singles-only career since 2022. 'Merry Christmas, i miss you' (Dec 2024) is an evergreen seasonal engine.",
+ "catalog_note": "Singles-only career since 2022. 'What If I Call' (Jul 31 2026) is the breakout at ~900k plays a day; 'Merry Christmas, i miss you' (Dec 2024) is the seasonal engine and already climbing in October.",
  "handles": {
   "instagram": "alexcrichton",
   "tiktok": "alexcrichton1"
@@ -60,7 +67,7 @@
  ],
  "hours_since_prev": 123,
  "plays_stale": false,
- "generated_at": "2026-10-09T12:57",
+ "generated_at": "2026-10-09T12:59",
  "tracks": [
   {
    "id": "3zBdVzYsuqVPyMk1YFiPcg",
@@ -119,7 +126,7 @@
    "pop_change": null,
    "delta_1d": null,
    "delta_7d": null,
-   "kind": "recent",
+   "kind": "campaign single",
    "trend": "baseline"
   },
   {
@@ -391,17 +398,19 @@
  },
  "brief": {
   "paragraphs": [
-   "What If I Call is 70 days old. The job now is keeping the tracks that are working alive and deciding what the next focus is. The artist sits at 9.8M monthly listeners and 62k Spotify followers.",
-   "Of the singles, What If I Call is the one working: 42.6M plays in 70 days, about 608k a day on average, Spotify popularity 84.",
+   "Stuck on You is out today. The artist sits at 9.8M monthly listeners and 62k Spotify followers.",
+   "Of the singles, What If I Call is the one working: 42.6M plays in 70 days, about 608k a day on average, Spotify popularity 84. The newest single, Stuck on You, is at 2k plays after 1 days, roughly 2k a day, which is 0% of What If I Call's pace. That is a soft lead-in to the release and worth naming out loud rather than hoping it turns.",
    "Catalog is doing real work: What If I Call (Merry Christmas, i miss you) still averages 119k plays a day 673 days after release, and the tracked catalog holds 83.8M plays. A new release lifts catalog if the catalog is easy to find from it.",
    "Growing: i'll wait for you.",
    "Short-form: the last three weeks of TikTok posts are landing around 101k views each, against pinned posts at 8.2M. The account has 134k followers, so reach is there when the hook is. Release week needs a hook-led post plan, not announcement posts."
   ],
   "actions": [
+   "Make What If I Call the anchor in every DSP pitch and ad creative for release week, not Stuck on You. The data says which one people are choosing.",
+   "Put What If I Call (Merry Christmas, i miss you) and the next catalog track on Discovery Mode for release week, and make sure the artist profile pins the new single above them.",
    "Brief the band on three hook-first TikToks for release week that use the strongest 10 seconds of the focus track. Announcement posts are not the format that got them here."
   ],
   "notes": "Play counts are cumulative Spotify counts read from the public artist and album pages once a day. Spotify popularity is Spotify's own 0 to 100 recency-weighted score and moves before play counts do. Monthly listeners and follower counts come from public profiles. Nothing here uses label-internal data.",
-  "days_to_release": -70,
+  "days_to_release": 0,
   "generated": "2026-10-09",
   "snapshot_days": 10
  }
