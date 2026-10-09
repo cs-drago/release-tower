@@ -1,0 +1,449 @@
+{
+ "date": "2026-10-09",
+ "collected_at": "2026-10-09T12:57:24",
+ "artist": "Alex Crichton",
+ "slug": "alex-crichton",
+ "spotify": {
+  "followers": 62376,
+  "popularity": 70,
+  "genres": [],
+  "monthly_listeners": 9783321,
+  "world_rank": null,
+  "top_cities": [
+   {
+    "city": "Jakarta",
+    "country": "ID",
+    "region": "JK",
+    "listeners": 431291
+   },
+   {
+    "city": "Surabaya",
+    "country": "ID",
+    "region": "JI",
+    "listeners": 422891
+   },
+   {
+    "city": "Quezon City",
+    "country": "PH",
+    "region": "00",
+    "listeners": 403185
+   },
+   {
+    "city": "Bandung",
+    "country": "ID",
+    "region": "JB",
+    "listeners": 394373
+   },
+   {
+    "city": "West Jakarta",
+    "country": "ID",
+    "region": "JK",
+    "listeners": 330200
+   }
+  ],
+  "external_links": [
+   {
+    "name": "INSTAGRAM",
+    "url": "https://instagram.com/alexcrichton/"
+   },
+   {
+    "name": "TIKTOK",
+    "url": "https://tiktok.com/@alexcrichton1"
+   }
+  ],
+  "top_tracks": [
+   {
+    "id": "3zBdVzYsuqVPyMk1YFiPcg",
+    "name": "What If I Call",
+    "plays": 42591933
+   },
+   {
+    "id": "0XYALktGbnHJ1TdW0Oz5KN",
+    "name": "What If I Call (Merry Christmas, i miss you)",
+    "plays": 80401475
+   },
+   {
+    "id": "3a6UO52PjIsI53AHGdBrle",
+    "name": "Something's Wrong",
+    "plays": 1987648
+   },
+   {
+    "id": "19UAhKPqIeVFyAy4V4fmxQ",
+    "name": "i'll wait for you",
+    "plays": 1939316
+   },
+   {
+    "id": "3FOB5VjOg7y2bBaKMSVMmC",
+    "name": "Break Your Heart",
+    "plays": 1458814
+   },
+   {
+    "id": "0ARA7a76oFK5PX5skKqCx1",
+    "name": "in my head",
+    "plays": 892555
+   },
+   {
+    "id": "4WzyFHJC8iX5pWzSqVwSbb",
+    "name": "bridge on the ocean",
+    "plays": 1324408
+   },
+   {
+    "id": "10jtvNYLIxsjc8jIvgCfl7",
+    "name": "back then",
+    "plays": 414348
+   },
+   {
+    "id": "1CLuNQ39XNTw2558hczsv4",
+    "name": "Hide a Smile",
+    "plays": 629286
+   },
+   {
+    "id": "6qBR5AlPkQjsxgEYBy4iIA",
+    "name": "love again",
+    "plays": 848296
+   }
+  ]
+ },
+ "discography": [
+  {
+   "id": "3QjrVoDWDMx0pSV34mLM0o",
+   "name": "Stuck on You",
+   "type": "single",
+   "release_date": "2026-10-09",
+   "total_tracks": 1
+  },
+  {
+   "id": "4yazxGFraz7lO9omZNEues",
+   "name": "What If I Call",
+   "type": "single",
+   "release_date": "2026-07-31",
+   "total_tracks": 1
+  },
+  {
+   "id": "0cdvzZDvGBQgUjVOn5U4b0",
+   "name": "Hide a Smile",
+   "type": "single",
+   "release_date": "2026-06-18",
+   "total_tracks": 1
+  },
+  {
+   "id": "3oLe51Hg28mVZytzuPGpUo",
+   "name": "Something's Wrong",
+   "type": "single",
+   "release_date": "2026-03-14",
+   "total_tracks": 1
+  },
+  {
+   "id": "4CgfZHOZTSDl1EBp1MXd8Y",
+   "name": "Time to Leave",
+   "type": "single",
+   "release_date": "2025-12-30",
+   "total_tracks": 1
+  },
+  {
+   "id": "6Vhfe7ndyerfB7nTahPjOb",
+   "name": "Barcelona",
+   "type": "single",
+   "release_date": "2025-11-06",
+   "total_tracks": 1
+  },
+  {
+   "id": "0OSgQwHF0AeqJ9gydGZjpc",
+   "name": "There With You",
+   "type": "single",
+   "release_date": "2025-09-12",
+   "total_tracks": 1
+  },
+  {
+   "id": "2wpPVQW6FCKDw2T1Pk3ZgN",
+   "name": "Fancy Things",
+   "type": "single",
+   "release_date": "2025-06-12",
+   "total_tracks": 1
+  },
+  {
+   "id": "78jbxFombQ239BP49tLPHL",
+   "name": "Break Your Heart",
+   "type": "single",
+   "release_date": "2025-02-20",
+   "total_tracks": 1
+  },
+  {
+   "id": "2UXDJKIqpHtgZgoAzKuJXA",
+   "name": "Coffee",
+   "type": "single",
+   "release_date": "2025-01-02",
+   "total_tracks": 1
+  },
+  {
+   "id": "4tBtqVg9XCTtPkxHGynwNb",
+   "name": "What If I Call (Merry Christmas, i miss you)",
+   "type": "single",
+   "release_date": "2024-12-05",
+   "total_tracks": 1
+  },
+  {
+   "id": "7dT3IxSHQXigL1zcilvAqT",
+   "name": "love again",
+   "type": "single",
+   "release_date": "2024-11-14",
+   "total_tracks": 1
+  },
+  {
+   "id": "6s0hh9X5EcsBrItSeTeu11",
+   "name": "loved the band",
+   "type": "single",
+   "release_date": "2024-07-18",
+   "total_tracks": 1
+  },
+  {
+   "id": "5KSEvyCpgcjNdjAaoJDMQK",
+   "name": "old friend",
+   "type": "single",
+   "release_date": "2024-06-06",
+   "total_tracks": 1
+  },
+  {
+   "id": "5PFqBUyxsFWqFLzmpaGKX2",
+   "name": "in my head",
+   "type": "single",
+   "release_date": "2024-04-19",
+   "total_tracks": 1
+  },
+  {
+   "id": "6Jd40J1f0FOWSBgIvGmp81",
+   "name": "bridge on the ocean",
+   "type": "single",
+   "release_date": "2024-02-02",
+   "total_tracks": 1
+  },
+  {
+   "id": "4PcwH71CEDE4WcfQBjLiHQ",
+   "name": "i'll wait for you",
+   "type": "single",
+   "release_date": "2023-06-23",
+   "total_tracks": 1
+  },
+  {
+   "id": "2u7hSNxelxd8tuXbAohBAI",
+   "name": "still don't sleep",
+   "type": "single",
+   "release_date": "2023-05-19",
+   "total_tracks": 1
+  },
+  {
+   "id": "3x65brHDvlH8eeKH5kikUq",
+   "name": "someday",
+   "type": "single",
+   "release_date": "2023-04-21",
+   "total_tracks": 1
+  },
+  {
+   "id": "0Xds4SNVFLMkzxpghIHUPg",
+   "name": "back then",
+   "type": "single",
+   "release_date": "2022-11-25",
+   "total_tracks": 1
+  },
+  {
+   "id": "5GRc8YcNs1GTn83KsNSqkO",
+   "name": "Out of Time",
+   "type": "single",
+   "release_date": "2022-08-26",
+   "total_tracks": 1
+  }
+ ],
+ "track_popularity": {
+  "3FOB5VjOg7y2bBaKMSVMmC": 54,
+  "0XYALktGbnHJ1TdW0Oz5KN": 83,
+  "19UAhKPqIeVFyAy4V4fmxQ": 57,
+  "3a6UO52PjIsI53AHGdBrle": 58,
+  "3zBdVzYsuqVPyMk1YFiPcg": 84,
+  "0dLrM9SueB4RmdxSWEc7fh": 0,
+  "1CLuNQ39XNTw2558hczsv4": 49
+ },
+ "track_plays": {
+  "1CLuNQ39XNTw2558hczsv4": {
+   "name": "Hide a Smile",
+   "plays": 629286,
+   "album": "Hide a Smile",
+   "album_release": "2026-06-18",
+   "label": "BarleyBoy Records",
+   "source": "sourabhbgp"
+  },
+  "0dLrM9SueB4RmdxSWEc7fh": {
+   "name": "Stuck on You",
+   "plays": 2033,
+   "album": "Stuck on You",
+   "album_release": "2026-10-09",
+   "label": "Independent",
+   "source": "sourabhbgp"
+  },
+  "3a6UO52PjIsI53AHGdBrle": {
+   "name": "Something's Wrong",
+   "plays": 1987648,
+   "album": "Something's Wrong",
+   "album_release": "2026-03-14",
+   "label": "BarleyBoy Records",
+   "source": "sourabhbgp"
+  },
+  "19UAhKPqIeVFyAy4V4fmxQ": {
+   "name": "i'll wait for you",
+   "plays": 1939316,
+   "album": "i'll wait for you",
+   "album_release": "2023-06-23",
+   "label": "Independent",
+   "source": "sourabhbgp"
+  },
+  "0XYALktGbnHJ1TdW0Oz5KN": {
+   "name": "What If I Call (Merry Christmas, i miss you)",
+   "plays": 80401475,
+   "album": "What If I Call (Merry Christmas, i miss you)",
+   "album_release": "2024-12-05",
+   "label": "Interstellar Music",
+   "source": "sourabhbgp"
+  },
+  "3zBdVzYsuqVPyMk1YFiPcg": {
+   "name": "What If I Call",
+   "plays": 42591933,
+   "album": "What If I Call",
+   "album_release": "2026-07-31",
+   "label": "Independent",
+   "source": "sourabhbgp"
+  },
+  "3FOB5VjOg7y2bBaKMSVMmC": {
+   "name": "Break Your Heart",
+   "plays": 1458814,
+   "album": "Break Your Heart",
+   "album_release": "2025-02-20",
+   "label": "Barley Music",
+   "source": "sourabhbgp"
+  }
+ },
+ "plays_source": "sourabhbgp",
+ "handles": {
+  "instagram": "alexcrichton",
+  "tiktok": "alexcrichton1"
+ },
+ "instagram": {
+  "followers": 22337,
+  "posts": 20,
+  "bio_link": "https://linktr.ee/alexcrichton",
+  "verified": false
+ },
+ "tiktok": {
+  "fans": 134300,
+  "hearts": 22100000,
+  "videos": 849,
+  "recent": [
+   {
+    "posted": "2026-08-20T06:49:20.000Z",
+    "plays": 894900,
+    "likes": 175800,
+    "comments": 771,
+    "shares": 12900,
+    "text": "Stuck on youuuu \u260e\ufe0f do we like this one???",
+    "url": "https://www.tiktok.com/@alexcrichton1/video/7676002295871458580"
+   },
+   {
+    "posted": "2026-08-01T20:56:09.000Z",
+    "plays": 8200000,
+    "likes": 1800000,
+    "comments": 7025,
+    "shares": 207300,
+    "text": "What If I Call? \u260e\ufe0f ",
+    "url": "https://www.tiktok.com/@alexcrichton1/video/7669169865835498772"
+   },
+   {
+    "posted": "2026-07-29T02:10:15.000Z",
+    "plays": 2400000,
+    "likes": 558600,
+    "comments": 3381,
+    "shares": 54900,
+    "text": "YOU BETTER BE READY TO BLAST IT WITH ME!!!",
+    "url": "https://www.tiktok.com/@alexcrichton1/video/7667766442883927316"
+   },
+   {
+    "posted": "2026-10-08T23:05:31.000Z",
+    "plays": 209700,
+    "likes": 50500,
+    "comments": 609,
+    "shares": 3172,
+    "text": "\u201dStuck On You\u201c out TONIGHT!! Love you guys hope you love itttt <333",
+    "url": "https://www.tiktok.com/@alexcrichton1/video/7694437004167236885"
+   },
+   {
+    "posted": "2026-10-07T23:37:57.000Z",
+    "plays": 1800000,
+    "likes": 354600,
+    "comments": 1496,
+    "shares": 21100,
+    "text": "GENUINELY SO CRAZY THANK YOU GUYS SO MUCHHH LOVE UUU @The Today Show ",
+    "url": "https://www.tiktok.com/@alexcrichton1/video/7694074254161136917"
+   },
+   {
+    "posted": "2026-10-07T06:15:31.000Z",
+    "plays": 53300,
+    "likes": 8656,
+    "comments": 52,
+    "shares": 345,
+    "text": "Its defrostinggggggg \ud83d\udc40 \ud83d\udc40 ",
+    "url": "https://www.tiktok.com/@alexcrichton1/video/7693805650219961621"
+   },
+   {
+    "posted": "2026-10-01T03:46:59.000Z",
+    "plays": 41200,
+    "likes": 5899,
+    "comments": 92,
+    "shares": 281,
+    "text": "I suppose this is one solution\u2026",
+    "url": "https://www.tiktok.com/@alexcrichton1/video/7691540865335987476"
+   },
+   {
+    "posted": "2026-09-27T23:55:55.000Z",
+    "plays": 49200,
+    "likes": 6747,
+    "comments": 57,
+    "shares": 398,
+    "text": "Like fr dont forget about me!",
+    "url": "https://www.tiktok.com/@alexcrichton1/video/7690368050209590549"
+   },
+   {
+    "posted": "2026-09-21T02:36:59.000Z",
+    "plays": 130300,
+    "likes": 22000,
+    "comments": 187,
+    "shares": 1126,
+    "text": "Valid crashout imo \ud83e\udd37\u200d\u2642\ufe0f ",
+    "url": "https://www.tiktok.com/@alexcrichton1/video/7687811961538530580"
+   },
+   {
+    "posted": "2026-09-19T01:58:28.000Z",
+    "plays": 100600,
+    "likes": 17600,
+    "comments": 122,
+    "shares": 688,
+    "text": "anyways\u2026 THANK YOU FOR LOVING MY MUSIC \ud83e\udef6\ud83e\udef6",
+    "url": "https://www.tiktok.com/@alexcrichton1/video/7687059881819507989"
+   },
+   {
+    "posted": "2026-09-17T04:03:50.000Z",
+    "plays": 489000,
+    "likes": 60200,
+    "comments": 322,
+    "shares": 3638,
+    "text": "And theyre all falling for something real.",
+    "url": "https://www.tiktok.com/@alexcrichton1/video/7686350016662801684"
+   },
+   {
+    "posted": "2026-09-15T01:07:48.000Z",
+    "plays": 36100,
+    "likes": 5074,
+    "comments": 72,
+    "shares": 151,
+    "text": "youre off to the beach till the weather gets niceeee \ud83c\udfd6\ufe0f ",
+    "url": "https://www.tiktok.com/@alexcrichton1/video/7685562466679491860"
+   }
+  ]
+ }
+}

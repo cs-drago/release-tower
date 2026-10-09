@@ -1,0 +1,408 @@
+{
+ "artist": "Alex Crichton",
+ "slug": "alex-crichton",
+ "label": "Warner Records",
+ "release": {
+  "title": "What If I Call",
+  "type": "single",
+  "date": "2026-07-31",
+  "presave_url": null,
+  "focus_track": "What If I Call",
+  "tracklist": [
+   "What If I Call"
+  ],
+  "released_singles": [
+   {
+    "name": "What If I Call",
+    "track_id": "3zBdVzYsuqVPyMk1YFiPcg",
+    "album_id": "4yazxGFraz7lO9omZNEues",
+    "date": "2026-07-31"
+   },
+   {
+    "name": "Hide a Smile",
+    "track_id": "1CLuNQ39XNTw2558hczsv4",
+    "album_id": "0cdvzZDvGBQgUjVOn5U4b0",
+    "date": "2026-06-18"
+   },
+   {
+    "name": "Something's Wrong",
+    "track_id": "3a6UO52PjIsI53AHGdBrle",
+    "album_id": "3oLe51Hg28mVZytzuPGpUo",
+    "date": "2026-03-14"
+   }
+  ],
+  "album_ids_to_track": [
+   "4yazxGFraz7lO9omZNEues",
+   "0cdvzZDvGBQgUjVOn5U4b0",
+   "3oLe51Hg28mVZytzuPGpUo"
+  ],
+  "ep_album_id": null
+ },
+ "tour": [],
+ "same_day_releases": [],
+ "catalog_note": "Singles-only career since 2022. 'Merry Christmas, i miss you' (Dec 2024) is an evergreen seasonal engine.",
+ "handles": {
+  "instagram": "alexcrichton",
+  "tiktok": "alexcrichton1"
+ },
+ "spotify_artist_id": "25JtC3l1STnE2GptoHKXdD",
+ "snapshot_dates": [
+  "2026-09-23",
+  "2026-09-24",
+  "2026-09-25",
+  "2026-09-27",
+  "2026-09-29",
+  "2026-09-30",
+  "2026-10-01",
+  "2026-10-02",
+  "2026-10-04",
+  "2026-10-09"
+ ],
+ "hours_since_prev": 123,
+ "plays_stale": false,
+ "generated_at": "2026-10-09T12:57",
+ "tracks": [
+  {
+   "id": "3zBdVzYsuqVPyMk1YFiPcg",
+   "name": "What If I Call",
+   "album": "What If I Call",
+   "release_date": "2026-07-31",
+   "plays": 42591933,
+   "days_out": 70,
+   "avg_per_day": 608456,
+   "popularity": 84,
+   "pop_change": 1,
+   "delta_1d": 938734,
+   "delta_7d": 11373905,
+   "kind": "campaign single",
+   "trend": "steady"
+  },
+  {
+   "id": "3a6UO52PjIsI53AHGdBrle",
+   "name": "Something's Wrong",
+   "album": "Something's Wrong",
+   "release_date": "2026-03-14",
+   "plays": 1987648,
+   "days_out": 209,
+   "avg_per_day": 9510,
+   "popularity": 58,
+   "pop_change": 1,
+   "delta_1d": 43007,
+   "delta_7d": 430752,
+   "kind": "campaign single",
+   "trend": "steady"
+  },
+  {
+   "id": "1CLuNQ39XNTw2558hczsv4",
+   "name": "Hide a Smile",
+   "album": "Hide a Smile",
+   "release_date": "2026-06-18",
+   "plays": 629286,
+   "days_out": 113,
+   "avg_per_day": 5569,
+   "popularity": 49,
+   "pop_change": -2,
+   "delta_1d": 5712,
+   "delta_7d": 68241,
+   "kind": "campaign single",
+   "trend": "softening"
+  },
+  {
+   "id": "0dLrM9SueB4RmdxSWEc7fh",
+   "name": "Stuck on You",
+   "album": "Stuck on You",
+   "release_date": "2026-10-09",
+   "plays": 2033,
+   "days_out": 1,
+   "avg_per_day": 2033,
+   "popularity": 0,
+   "pop_change": null,
+   "delta_1d": null,
+   "delta_7d": null,
+   "kind": "recent",
+   "trend": "baseline"
+  },
+  {
+   "id": "0XYALktGbnHJ1TdW0Oz5KN",
+   "name": "What If I Call (Merry Christmas, i miss you)",
+   "album": "What If I Call (Merry Christmas, i miss you)",
+   "release_date": "2024-12-05",
+   "plays": 80401475,
+   "days_out": 673,
+   "avg_per_day": 119467,
+   "popularity": 83,
+   "pop_change": 0,
+   "delta_1d": 708882,
+   "delta_7d": 8242744,
+   "kind": "catalog",
+   "trend": "steady"
+  },
+  {
+   "id": "19UAhKPqIeVFyAy4V4fmxQ",
+   "name": "i'll wait for you",
+   "album": "i'll wait for you",
+   "release_date": "2023-06-23",
+   "plays": 1939316,
+   "days_out": 1204,
+   "avg_per_day": 1611,
+   "popularity": 57,
+   "pop_change": 2,
+   "delta_1d": 34263,
+   "delta_7d": 441278,
+   "kind": "catalog",
+   "trend": "growing"
+  },
+  {
+   "id": "3FOB5VjOg7y2bBaKMSVMmC",
+   "name": "Break Your Heart",
+   "album": "Break Your Heart",
+   "release_date": "2025-02-20",
+   "plays": 1458814,
+   "days_out": 596,
+   "avg_per_day": 2448,
+   "popularity": 54,
+   "pop_change": -1,
+   "delta_1d": 18457,
+   "delta_7d": 199127,
+   "kind": "catalog",
+   "trend": "steady"
+  }
+ ],
+ "audience": [
+  {
+   "label": "Spotify monthly listeners",
+   "value": 9783321,
+   "delta_1d": 63720,
+   "delta_total": 1431081,
+   "series": [
+    8352240,
+    8470012,
+    8595284,
+    8844400,
+    8987936,
+    9113551,
+    9202749,
+    9299756,
+    9457554,
+    9783321
+   ]
+  },
+  {
+   "label": "Spotify followers",
+   "value": 62376,
+   "delta_1d": 521,
+   "delta_total": 8130,
+   "series": [
+    54246,
+    54732,
+    55226,
+    56262,
+    57285,
+    57734,
+    58255,
+    58693,
+    59711,
+    62376
+   ]
+  },
+  {
+   "label": "Spotify artist popularity",
+   "value": 70,
+   "delta_1d": 0,
+   "delta_total": 1,
+   "series": [
+    69,
+    69,
+    69,
+    70,
+    70,
+    70,
+    70,
+    70,
+    70,
+    70
+   ]
+  },
+  {
+   "label": "Instagram followers",
+   "value": 22337,
+   "delta_1d": null,
+   "delta_total": 1897,
+   "series": [
+    20440,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    22337
+   ]
+  },
+  {
+   "label": "TikTok followers",
+   "value": 134300,
+   "delta_1d": null,
+   "delta_total": null,
+   "series": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    134300
+   ]
+  }
+ ],
+ "cities": [
+  {
+   "city": "Jakarta",
+   "region": "JK",
+   "country": "ID",
+   "listeners": 431291,
+   "tour_date": false
+  },
+  {
+   "city": "Surabaya",
+   "region": "JI",
+   "country": "ID",
+   "listeners": 422891,
+   "tour_date": false
+  },
+  {
+   "city": "Quezon City",
+   "region": "00",
+   "country": "PH",
+   "listeners": 403185,
+   "tour_date": false
+  },
+  {
+   "city": "Bandung",
+   "region": "JB",
+   "country": "ID",
+   "listeners": 394373,
+   "tour_date": false
+  },
+  {
+   "city": "West Jakarta",
+   "region": "JK",
+   "country": "ID",
+   "listeners": 330200,
+   "tour_date": false
+  }
+ ],
+ "checklist": [],
+ "shortform": {
+  "followers": 134300,
+  "hearts": 22100000,
+  "recent_count": 7,
+  "recent_median_plays": 100600,
+  "pinned_or_older": [
+   {
+    "posted": "2026-08-01T20:56:09.000Z",
+    "plays": 8200000,
+    "likes": 1800000,
+    "comments": 7025,
+    "shares": 207300,
+    "text": "What If I Call? \u260e\ufe0f ",
+    "url": "https://www.tiktok.com/@alexcrichton1/video/7669169865835498772"
+   },
+   {
+    "posted": "2026-07-29T02:10:15.000Z",
+    "plays": 2400000,
+    "likes": 558600,
+    "comments": 3381,
+    "shares": 54900,
+    "text": "YOU BETTER BE READY TO BLAST IT WITH ME!!!",
+    "url": "https://www.tiktok.com/@alexcrichton1/video/7667766442883927316"
+   }
+  ],
+  "recent": [
+   {
+    "posted": "2026-10-08T23:05:31.000Z",
+    "plays": 209700,
+    "likes": 50500,
+    "comments": 609,
+    "shares": 3172,
+    "text": "\u201dStuck On You\u201c out TONIGHT!! Love you guys hope you love itttt <333",
+    "url": "https://www.tiktok.com/@alexcrichton1/video/7694437004167236885"
+   },
+   {
+    "posted": "2026-10-07T23:37:57.000Z",
+    "plays": 1800000,
+    "likes": 354600,
+    "comments": 1496,
+    "shares": 21100,
+    "text": "GENUINELY SO CRAZY THANK YOU GUYS SO MUCHHH LOVE UUU @The Today Show ",
+    "url": "https://www.tiktok.com/@alexcrichton1/video/7694074254161136917"
+   },
+   {
+    "posted": "2026-10-07T06:15:31.000Z",
+    "plays": 53300,
+    "likes": 8656,
+    "comments": 52,
+    "shares": 345,
+    "text": "Its defrostinggggggg \ud83d\udc40 \ud83d\udc40 ",
+    "url": "https://www.tiktok.com/@alexcrichton1/video/7693805650219961621"
+   },
+   {
+    "posted": "2026-10-01T03:46:59.000Z",
+    "plays": 41200,
+    "likes": 5899,
+    "comments": 92,
+    "shares": 281,
+    "text": "I suppose this is one solution\u2026",
+    "url": "https://www.tiktok.com/@alexcrichton1/video/7691540865335987476"
+   },
+   {
+    "posted": "2026-09-27T23:55:55.000Z",
+    "plays": 49200,
+    "likes": 6747,
+    "comments": 57,
+    "shares": 398,
+    "text": "Like fr dont forget about me!",
+    "url": "https://www.tiktok.com/@alexcrichton1/video/7690368050209590549"
+   },
+   {
+    "posted": "2026-09-21T02:36:59.000Z",
+    "plays": 130300,
+    "likes": 22000,
+    "comments": 187,
+    "shares": 1126,
+    "text": "Valid crashout imo \ud83e\udd37\u200d\u2642\ufe0f ",
+    "url": "https://www.tiktok.com/@alexcrichton1/video/7687811961538530580"
+   },
+   {
+    "posted": "2026-09-19T01:58:28.000Z",
+    "plays": 100600,
+    "likes": 17600,
+    "comments": 122,
+    "shares": 688,
+    "text": "anyways\u2026 THANK YOU FOR LOVING MY MUSIC \ud83e\udef6\ud83e\udef6",
+    "url": "https://www.tiktok.com/@alexcrichton1/video/7687059881819507989"
+   }
+  ]
+ },
+ "brief": {
+  "paragraphs": [
+   "What If I Call is 70 days old. The job now is keeping the tracks that are working alive and deciding what the next focus is. The artist sits at 9.8M monthly listeners and 62k Spotify followers.",
+   "Of the singles, What If I Call is the one working: 42.6M plays in 70 days, about 608k a day on average, Spotify popularity 84.",
+   "Catalog is doing real work: What If I Call (Merry Christmas, i miss you) still averages 119k plays a day 673 days after release, and the tracked catalog holds 83.8M plays. A new release lifts catalog if the catalog is easy to find from it.",
+   "Growing: i'll wait for you.",
+   "Short-form: the last three weeks of TikTok posts are landing around 101k views each, against pinned posts at 8.2M. The account has 134k followers, so reach is there when the hook is. Release week needs a hook-led post plan, not announcement posts."
+  ],
+  "actions": [
+   "Brief the band on three hook-first TikToks for release week that use the strongest 10 seconds of the focus track. Announcement posts are not the format that got them here."
+  ],
+  "notes": "Play counts are cumulative Spotify counts read from the public artist and album pages once a day. Spotify popularity is Spotify's own 0 to 100 recency-weighted score and moves before play counts do. Monthly listeners and follower counts come from public profiles. Nothing here uses label-internal data.",
+  "days_to_release": -70,
+  "generated": "2026-10-09",
+  "snapshot_days": 10
+ }
+}

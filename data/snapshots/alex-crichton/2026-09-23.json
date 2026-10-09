@@ -1,0 +1,307 @@
+{
+ "date": "2026-09-23",
+ "collected_at": "2026-09-23T14:43:07",
+ "artist": "Alex Crichton",
+ "slug": "alex-crichton",
+ "spotify": {
+  "followers": 54246,
+  "popularity": 69,
+  "genres": [],
+  "monthly_listeners": 8352240,
+  "world_rank": 0,
+  "top_cities": [
+   {
+    "city": "Quezon City",
+    "country": "PH",
+    "region": "00",
+    "listeners": 376818
+   },
+   {
+    "city": "Jakarta",
+    "country": "ID",
+    "region": "JK",
+    "listeners": 365592
+   },
+   {
+    "city": "Surabaya",
+    "country": "ID",
+    "region": "JI",
+    "listeners": 356461
+   },
+   {
+    "city": "Bandung",
+    "country": "ID",
+    "region": "JB",
+    "listeners": 329726
+   },
+   {
+    "city": "West Jakarta",
+    "country": "ID",
+    "region": "JK",
+    "listeners": 269684
+   }
+  ],
+  "external_links": [
+   {
+    "name": "INSTAGRAM",
+    "url": "https://instagram.com/alexcrichton1?igsh=NDR1dmd6M2RueDE0&utm_source=qr"
+   }
+  ],
+  "top_tracks": [
+   {
+    "id": "0XYALktGbnHJ1TdW0Oz5KN",
+    "name": "Merry Christmas, i miss you",
+    "plays": 71021948
+   },
+   {
+    "id": "3zBdVzYsuqVPyMk1YFiPcg",
+    "name": "What If I Call",
+    "plays": 29568151
+   },
+   {
+    "id": "3a6UO52PjIsI53AHGdBrle",
+    "name": "Something's Wrong",
+    "plays": 1518248
+   },
+   {
+    "id": "19UAhKPqIeVFyAy4V4fmxQ",
+    "name": "i'll wait for you",
+    "plays": 1427848
+   },
+   {
+    "id": "3FOB5VjOg7y2bBaKMSVMmC",
+    "name": "Break Your Heart",
+    "plays": 1234239
+   },
+   {
+    "id": "0ARA7a76oFK5PX5skKqCx1",
+    "name": "in my head",
+    "plays": 633842
+   },
+   {
+    "id": "4WzyFHJC8iX5pWzSqVwSbb",
+    "name": "bridge on the ocean",
+    "plays": 1082807
+   },
+   {
+    "id": "1CLuNQ39XNTw2558hczsv4",
+    "name": "Hide a Smile",
+    "plays": 550604
+   },
+   {
+    "id": "6qBR5AlPkQjsxgEYBy4iIA",
+    "name": "love again",
+    "plays": 755665
+   },
+   {
+    "id": "3N1wQwxyGogkwaXlyMGWCX",
+    "name": "Coffee",
+    "plays": 1099007
+   }
+  ]
+ },
+ "discography": [
+  {
+   "id": "4yazxGFraz7lO9omZNEues",
+   "name": "What If I Call",
+   "type": "single",
+   "release_date": "2026-07-31",
+   "total_tracks": 1
+  },
+  {
+   "id": "0cdvzZDvGBQgUjVOn5U4b0",
+   "name": "Hide a Smile",
+   "type": "single",
+   "release_date": "2026-06-18",
+   "total_tracks": 1
+  },
+  {
+   "id": "3oLe51Hg28mVZytzuPGpUo",
+   "name": "Something's Wrong",
+   "type": "single",
+   "release_date": "2026-03-14",
+   "total_tracks": 1
+  },
+  {
+   "id": "4CgfZHOZTSDl1EBp1MXd8Y",
+   "name": "Time to Leave",
+   "type": "single",
+   "release_date": "2025-12-30",
+   "total_tracks": 1
+  },
+  {
+   "id": "6Vhfe7ndyerfB7nTahPjOb",
+   "name": "Barcelona",
+   "type": "single",
+   "release_date": "2025-11-06",
+   "total_tracks": 1
+  },
+  {
+   "id": "0OSgQwHF0AeqJ9gydGZjpc",
+   "name": "There With You",
+   "type": "single",
+   "release_date": "2025-09-12",
+   "total_tracks": 1
+  },
+  {
+   "id": "2wpPVQW6FCKDw2T1Pk3ZgN",
+   "name": "Fancy Things",
+   "type": "single",
+   "release_date": "2025-06-12",
+   "total_tracks": 1
+  },
+  {
+   "id": "78jbxFombQ239BP49tLPHL",
+   "name": "Break Your Heart",
+   "type": "single",
+   "release_date": "2025-02-20",
+   "total_tracks": 1
+  },
+  {
+   "id": "2UXDJKIqpHtgZgoAzKuJXA",
+   "name": "Coffee",
+   "type": "single",
+   "release_date": "2025-01-02",
+   "total_tracks": 1
+  },
+  {
+   "id": "4tBtqVg9XCTtPkxHGynwNb",
+   "name": "Merry Christmas, i miss you",
+   "type": "single",
+   "release_date": "2024-12-05",
+   "total_tracks": 1
+  },
+  {
+   "id": "7dT3IxSHQXigL1zcilvAqT",
+   "name": "love again",
+   "type": "single",
+   "release_date": "2024-11-14",
+   "total_tracks": 1
+  },
+  {
+   "id": "6s0hh9X5EcsBrItSeTeu11",
+   "name": "loved the band",
+   "type": "single",
+   "release_date": "2024-07-18",
+   "total_tracks": 1
+  },
+  {
+   "id": "5KSEvyCpgcjNdjAaoJDMQK",
+   "name": "old friend",
+   "type": "single",
+   "release_date": "2024-06-06",
+   "total_tracks": 1
+  },
+  {
+   "id": "5PFqBUyxsFWqFLzmpaGKX2",
+   "name": "in my head",
+   "type": "single",
+   "release_date": "2024-04-19",
+   "total_tracks": 1
+  },
+  {
+   "id": "6Jd40J1f0FOWSBgIvGmp81",
+   "name": "bridge on the ocean",
+   "type": "single",
+   "release_date": "2024-02-02",
+   "total_tracks": 1
+  },
+  {
+   "id": "4PcwH71CEDE4WcfQBjLiHQ",
+   "name": "i'll wait for you",
+   "type": "single",
+   "release_date": "2023-06-23",
+   "total_tracks": 1
+  },
+  {
+   "id": "2u7hSNxelxd8tuXbAohBAI",
+   "name": "still don't sleep",
+   "type": "single",
+   "release_date": "2023-05-19",
+   "total_tracks": 1
+  },
+  {
+   "id": "3x65brHDvlH8eeKH5kikUq",
+   "name": "someday",
+   "type": "single",
+   "release_date": "2023-04-21",
+   "total_tracks": 1
+  },
+  {
+   "id": "0Xds4SNVFLMkzxpghIHUPg",
+   "name": "back then",
+   "type": "single",
+   "release_date": "2022-11-25",
+   "total_tracks": 1
+  },
+  {
+   "id": "5GRc8YcNs1GTn83KsNSqkO",
+   "name": "Out of Time",
+   "type": "single",
+   "release_date": "2022-08-26",
+   "total_tracks": 1
+  }
+ ],
+ "track_popularity": {
+  "3FOB5VjOg7y2bBaKMSVMmC": 55,
+  "3a6UO52PjIsI53AHGdBrle": 57,
+  "19UAhKPqIeVFyAy4V4fmxQ": 55,
+  "0XYALktGbnHJ1TdW0Oz5KN": 83,
+  "3zBdVzYsuqVPyMk1YFiPcg": 83,
+  "1CLuNQ39XNTw2558hczsv4": 51
+ },
+ "track_plays": {
+  "1CLuNQ39XNTw2558hczsv4": {
+   "name": "Hide a Smile",
+   "plays": 550604,
+   "album": "Hide a Smile",
+   "album_release": "2026-06-18",
+   "label": "BarleyBoy Records"
+  },
+  "3a6UO52PjIsI53AHGdBrle": {
+   "name": "Something's Wrong",
+   "plays": 1518248,
+   "album": "Something's Wrong",
+   "album_release": "2026-03-14",
+   "label": "BarleyBoy Records"
+  },
+  "19UAhKPqIeVFyAy4V4fmxQ": {
+   "name": "i'll wait for you",
+   "plays": 1427848,
+   "album": "i'll wait for you",
+   "album_release": "2023-06-23",
+   "label": "Independent"
+  },
+  "0XYALktGbnHJ1TdW0Oz5KN": {
+   "name": "Merry Christmas, i miss you",
+   "plays": 71021948,
+   "album": "Merry Christmas, i miss you",
+   "album_release": "2024-12-05",
+   "label": "Interstellar Music"
+  },
+  "3zBdVzYsuqVPyMk1YFiPcg": {
+   "name": "What If I Call",
+   "plays": 29568151,
+   "album": "What If I Call",
+   "album_release": "2026-07-31",
+   "label": "Independent"
+  },
+  "3FOB5VjOg7y2bBaKMSVMmC": {
+   "name": "Break Your Heart",
+   "plays": 1234239,
+   "album": "Break Your Heart",
+   "album_release": "2025-02-20",
+   "label": "Barley Music"
+  }
+ },
+ "handles": {
+  "instagram": "alexcrichton1",
+  "tiktok": null
+ },
+ "instagram": {
+  "followers": 20440,
+  "posts": 19,
+  "bio_link": "https://linktr.ee/alexcrichton",
+  "verified": false
+ }
+}

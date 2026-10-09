@@ -1,0 +1,13 @@
+# internal working notes, not for the shared repo
+*.env
+.env
+.vercel/
+BRIEF.md
+__pycache__/
+com.chrisdrago.release-tower.plist
+data/alias.txt
+data/deploy-history.log
+data/last-deploy.log
+data/launchd.*
+research/apify-test-*.json
+research/paradox-dossier.md

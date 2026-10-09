@@ -1,0 +1,736 @@
+{
+ "artist": "The Paradox",
+ "slug": "the-paradox",
+ "label": "Hundred Days Records / Virgin Music Group",
+ "release": {
+  "title": "Proceed With Caution",
+  "type": "EP",
+  "date": "2026-10-02",
+  "presave_url": "https://ffm.to/tppwc",
+  "focus_track": "I Kinda Like That",
+  "tracklist": [
+   "I Kinda Like That",
+   "Living Hell",
+   "That's Not Fair",
+   "Good For Me",
+   "Stoner Mentality",
+   "It's Over"
+  ],
+  "released_singles": [
+   {
+    "name": "Good For Me",
+    "track_id": "1OAMZ1AV5y6DHI5kzP0L3V",
+    "album_id": "4eQhubbT1QHzrBqAynOWhq",
+    "date": "2026-06-05"
+   },
+   {
+    "name": "I Kinda Like That",
+    "track_id": "0d1VAPSDzDRZMNIndiC2x2",
+    "album_id": "1JAdAgj3z46aOZl5KHk56x",
+    "date": "2026-07-23"
+   },
+   {
+    "name": "That's Not Fair",
+    "track_id": "3pap8PquQ7L1mW6xlL1tjF",
+    "album_id": "52ZpqSUggHtToG8r4FnbmC",
+    "date": "2026-09-04"
+   }
+  ],
+  "album_ids_to_track": [
+   "52ZpqSUggHtToG8r4FnbmC"
+  ],
+  "ep_album_id": "468Onsk0BAN3KorH6PrBfR"
+ },
+ "tour": [
+  {
+   "date": "2026-10-14",
+   "city": "Dallas",
+   "venue": "HOB Cambridge Room",
+   "sold_out": true
+  },
+  {
+   "date": "2026-10-15",
+   "city": "Houston",
+   "venue": "HOB Bronze Peacock",
+   "sold_out": true
+  },
+  {
+   "date": "2026-10-16",
+   "city": "Austin",
+   "venue": "3Ten",
+   "sold_out": true
+  },
+  {
+   "date": "2026-10-19",
+   "city": "Phoenix",
+   "venue": "Rebel Lounge",
+   "sold_out": true
+  },
+  {
+   "date": "2026-10-20",
+   "city": "San Diego",
+   "venue": "HOB Voodoo Room",
+   "sold_out": true
+  },
+  {
+   "date": "2026-10-22",
+   "city": "Los Angeles",
+   "venue": "Moroccan Lounge",
+   "sold_out": true
+  },
+  {
+   "date": "2026-10-23",
+   "city": "Los Angeles",
+   "venue": "Moroccan Lounge",
+   "sold_out": true
+  },
+  {
+   "date": "2026-10-25",
+   "city": "Salt Lake City",
+   "venue": "Kilby Court",
+   "sold_out": false
+  },
+  {
+   "date": "2026-10-27",
+   "city": "Denver",
+   "venue": "Marquis",
+   "sold_out": true
+  },
+  {
+   "date": "2026-10-30",
+   "city": "St. Louis",
+   "venue": "Off Broadway",
+   "sold_out": false
+  },
+  {
+   "date": "2026-10-31",
+   "city": "Milwaukee",
+   "venue": "Rave Bar",
+   "sold_out": false
+  },
+  {
+   "date": "2026-11-02",
+   "city": "Indianapolis",
+   "venue": "HI-FI",
+   "sold_out": false
+  },
+  {
+   "date": "2026-11-03",
+   "city": "Detroit",
+   "venue": "Sanctuary",
+   "sold_out": false
+  },
+  {
+   "date": "2026-11-04",
+   "city": "Columbus",
+   "venue": "A&R Music Bar",
+   "sold_out": false
+  },
+  {
+   "date": "2026-11-06",
+   "city": "Boston",
+   "venue": "Sonia",
+   "sold_out": true
+  },
+  {
+   "date": "2026-11-08",
+   "city": "New York City",
+   "venue": "Mercury Lounge",
+   "sold_out": true
+  },
+  {
+   "date": "2026-11-09",
+   "city": "New York City",
+   "venue": "Mercury Lounge",
+   "sold_out": true
+  },
+  {
+   "date": "2026-11-11",
+   "city": "Philadelphia",
+   "venue": "Warehouse on Watts",
+   "sold_out": true
+  },
+  {
+   "date": "2026-11-13",
+   "city": "Towson",
+   "venue": "The Recher",
+   "sold_out": true
+  },
+  {
+   "date": "2026-11-17",
+   "city": "Jacksonville",
+   "venue": "Jack Rabbits",
+   "sold_out": true
+  },
+  {
+   "date": "2026-11-18",
+   "city": "Atlanta",
+   "venue": "Masquerade (Hell)",
+   "sold_out": true
+  }
+ ],
+ "same_day_releases": [
+  "Dexter and the Moonrocks, debut LP 'Friends That I Don't Like' (Severance/Big Loud), also Oct 2"
+ ],
+ "catalog_note": "NSFW (debut EP, Sept 19 2025). Do Me Like That, Get The Message and Bender are the catalog engines.",
+ "handles": {
+  "instagram": "theparadoxband",
+  "tiktok": "theparadoxband"
+ },
+ "spotify_artist_id": "6GhcI55xfZf5vqmmNqYzxW",
+ "snapshot_dates": [
+  "2026-09-23",
+  "2026-09-24",
+  "2026-09-25",
+  "2026-09-27",
+  "2026-09-29",
+  "2026-09-30",
+  "2026-10-01",
+  "2026-10-02",
+  "2026-10-04",
+  "2026-10-09"
+ ],
+ "hours_since_prev": 123,
+ "plays_stale": false,
+ "generated_at": "2026-10-09T12:57",
+ "tracks": [
+  {
+   "id": "48c7OG5qnI46q1GkspLrXv",
+   "name": "Living Hell",
+   "album": "Proceed With Caution",
+   "release_date": "2026-10-02",
+   "plays": 223619,
+   "days_out": 7,
+   "avg_per_day": 31946,
+   "popularity": 55,
+   "pop_change": null,
+   "delta_1d": 30588,
+   "delta_7d": null,
+   "kind": "EP track",
+   "trend": "baseline"
+  },
+  {
+   "id": "0vriIdU6ooX08NincbQncn",
+   "name": "Stoner Mentality",
+   "album": "Proceed With Caution",
+   "release_date": "2026-10-02",
+   "plays": 86336,
+   "days_out": 7,
+   "avg_per_day": 12334,
+   "popularity": 48,
+   "pop_change": null,
+   "delta_1d": 12803,
+   "delta_7d": null,
+   "kind": "EP track",
+   "trend": "baseline"
+  },
+  {
+   "id": "2ByB87X3vAVcNpyeu4rEyj",
+   "name": "It\u2019s Over",
+   "album": "Proceed With Caution",
+   "release_date": "2026-10-02",
+   "plays": 76367,
+   "days_out": 7,
+   "avg_per_day": 10910,
+   "popularity": 47,
+   "pop_change": null,
+   "delta_1d": 11343,
+   "delta_7d": null,
+   "kind": "EP track",
+   "trend": "baseline"
+  },
+  {
+   "id": "0d1VAPSDzDRZMNIndiC2x2",
+   "name": "I Kinda Like That",
+   "album": "I Kinda Like That",
+   "release_date": "2026-07-23",
+   "plays": 3925093,
+   "days_out": 78,
+   "avg_per_day": 50322,
+   "popularity": 66,
+   "pop_change": -1,
+   "delta_1d": 48400,
+   "delta_7d": 543297,
+   "kind": "campaign single",
+   "trend": "steady"
+  },
+  {
+   "id": "5ILlwIRE7fnwpipzfbb5O4",
+   "name": "Good For Me",
+   "album": "I Kinda Like That",
+   "release_date": "2026-07-23",
+   "plays": 1850318,
+   "days_out": 78,
+   "avg_per_day": 23722,
+   "popularity": 44,
+   "pop_change": 4,
+   "delta_1d": 15646,
+   "delta_7d": 162294,
+   "kind": "campaign single",
+   "trend": "growing"
+  },
+  {
+   "id": "3pap8PquQ7L1mW6xlL1tjF",
+   "name": "That\u2019s Not Fair",
+   "album": "That\u2019s Not Fair",
+   "release_date": "2026-09-04",
+   "plays": 345277,
+   "days_out": 35,
+   "avg_per_day": 9865,
+   "popularity": 52,
+   "pop_change": -2,
+   "delta_1d": 11437,
+   "delta_7d": 119074,
+   "kind": "campaign single",
+   "trend": "softening"
+  },
+  {
+   "id": "4lSVxmXuiXx7d4KKjRkl7Y",
+   "name": "Do Me Like That",
+   "album": "NSFW",
+   "release_date": "2025-09-19",
+   "plays": 16269795,
+   "days_out": 385,
+   "avg_per_day": 42259,
+   "popularity": 35,
+   "pop_change": -1,
+   "delta_1d": 27205,
+   "delta_7d": 328670,
+   "kind": "catalog",
+   "trend": "steady"
+  },
+  {
+   "id": "4ljnqQLIZomfVcuKhY59MO",
+   "name": "Bender (feat. Travis Barker)",
+   "album": "NSFW",
+   "release_date": "2025-09-19",
+   "plays": 6208688,
+   "days_out": 385,
+   "avg_per_day": 16126,
+   "popularity": 37,
+   "pop_change": -1,
+   "delta_1d": 16842,
+   "delta_7d": 193701,
+   "kind": "catalog",
+   "trend": "steady"
+  },
+  {
+   "id": "1CEICqf8KT6az8dfrx99TV",
+   "name": "Get The Message",
+   "album": "NSFW",
+   "release_date": "2025-09-19",
+   "plays": 6175876,
+   "days_out": 385,
+   "avg_per_day": 16041,
+   "popularity": 36,
+   "pop_change": -1,
+   "delta_1d": 13737,
+   "delta_7d": 163547,
+   "kind": "catalog",
+   "trend": "steady"
+  },
+  {
+   "id": "5D9S7FCULb52WBjAc3HabL",
+   "name": "Do It Again",
+   "album": "NSFW",
+   "release_date": "2025-09-19",
+   "plays": 3066258,
+   "days_out": 385,
+   "avg_per_day": 7964,
+   "popularity": 35,
+   "pop_change": -1,
+   "delta_1d": 7864,
+   "delta_7d": 92612,
+   "kind": "catalog",
+   "trend": "steady"
+  },
+  {
+   "id": "6bF9CZB2b9R2SNaudpayNO",
+   "name": "Leave My Room",
+   "album": "NSFW",
+   "release_date": "2025-09-19",
+   "plays": 1784700,
+   "days_out": 385,
+   "avg_per_day": 4636,
+   "popularity": 49,
+   "pop_change": -1,
+   "delta_1d": 3986,
+   "delta_7d": 47594,
+   "kind": "catalog",
+   "trend": "steady"
+  },
+  {
+   "id": "5x3aWE1Fu1Cn9Q3tJipWbQ",
+   "name": "No Strings Attached",
+   "album": "NSFW",
+   "release_date": "2025-09-19",
+   "plays": 1390823,
+   "days_out": 385,
+   "avg_per_day": 3613,
+   "popularity": 49,
+   "pop_change": -1,
+   "delta_1d": 3913,
+   "delta_7d": 47695,
+   "kind": "catalog",
+   "trend": "steady"
+  }
+ ],
+ "audience": [
+  {
+   "label": "Spotify monthly listeners",
+   "value": 836173,
+   "delta_1d": 7177,
+   "delta_total": 42537,
+   "series": [
+    793636,
+    794258,
+    793867,
+    793312,
+    790800,
+    787717,
+    782037,
+    779968,
+    799482,
+    836173
+   ]
+  },
+  {
+   "label": "Spotify followers",
+   "value": 335826,
+   "delta_1d": 414,
+   "delta_total": 5088,
+   "series": [
+    330738,
+    331002,
+    331241,
+    331718,
+    332128,
+    332339,
+    332569,
+    332776,
+    333711,
+    335826
+   ]
+  },
+  {
+   "label": "Spotify artist popularity",
+   "value": 57,
+   "delta_1d": 0,
+   "delta_total": 0,
+   "series": [
+    57,
+    57,
+    57,
+    57,
+    57,
+    57,
+    57,
+    57,
+    57,
+    57
+   ]
+  },
+  {
+   "label": "Instagram followers",
+   "value": 1309533,
+   "delta_1d": 684,
+   "delta_total": 5183,
+   "series": [
+    1304350,
+    1304659,
+    1304856,
+    1305065,
+    1304971,
+    1305078,
+    1305238,
+    1305323,
+    1306034,
+    1309533
+   ]
+  },
+  {
+   "label": "TikTok followers",
+   "value": 1000000,
+   "delta_1d": 0,
+   "delta_total": 0,
+   "series": [
+    1000000,
+    1000000,
+    1000000,
+    1000000,
+    1000000,
+    1000000,
+    1000000,
+    1000000,
+    1000000,
+    1000000
+   ]
+  }
+ ],
+ "cities": [
+  {
+   "city": "Chicago",
+   "region": "IL",
+   "country": "US",
+   "listeners": 19657,
+   "tour_date": false
+  },
+  {
+   "city": "Los Angeles",
+   "region": "CA",
+   "country": "US",
+   "listeners": 14446,
+   "tour_date": true
+  },
+  {
+   "city": "New York City",
+   "region": "NY",
+   "country": "US",
+   "listeners": 14101,
+   "tour_date": true
+  },
+  {
+   "city": "London",
+   "region": "ENG",
+   "country": "GB",
+   "listeners": 13763,
+   "tour_date": false
+  },
+  {
+   "city": "Philadelphia",
+   "region": "PA",
+   "country": "US",
+   "listeners": 12705,
+   "tour_date": true
+  }
+ ],
+ "checklist": [
+  {
+   "item": "Pre-save / pre-add live",
+   "due_days_before": 42,
+   "status": "done",
+   "evidence": "ffm.to/tppwc live in IG bio",
+   "due": "2026-08-21",
+   "state": "done"
+  },
+  {
+   "item": "Tracklist public",
+   "due_days_before": 28,
+   "status": "done",
+   "evidence": "6 tracks listed by retailers",
+   "due": "2026-09-04",
+   "state": "done"
+  },
+  {
+   "item": "Physical pre-order (vinyl, CD)",
+   "due_days_before": 42,
+   "status": "done",
+   "evidence": "Toxic green vinyl + CD on retailers",
+   "due": "2026-08-21",
+   "state": "done"
+  },
+  {
+   "item": "Third single out",
+   "due_days_before": 28,
+   "status": "done",
+   "evidence": "That's Not Fair, Sept 4",
+   "due": "2026-09-04",
+   "state": "done"
+  },
+  {
+   "item": "Spotify editorial pitch (focus track)",
+   "due_days_before": 7,
+   "status": "label-internal",
+   "evidence": "Spotify for Artists; ideally 3 to 4 weeks out",
+   "due": "2026-09-25",
+   "state": "due now"
+  },
+  {
+   "item": "Apple Music / Amazon pitches",
+   "due_days_before": 7,
+   "status": "label-internal",
+   "evidence": "",
+   "due": "2026-09-25",
+   "state": "due now"
+  },
+  {
+   "item": "Canvas + lyrics synced (Musixmatch)",
+   "due_days_before": 5,
+   "status": "label-internal",
+   "evidence": "",
+   "due": "2026-09-27",
+   "state": "due now"
+  },
+  {
+   "item": "Release-week content calendar locked",
+   "due_days_before": 7,
+   "status": "label-internal",
+   "evidence": "",
+   "due": "2026-09-25",
+   "state": "due now"
+  },
+  {
+   "item": "Discovery Mode set on catalog (Do Me Like That, Get The Message)",
+   "due_days_before": 3,
+   "status": "label-internal",
+   "evidence": "",
+   "due": "2026-09-29",
+   "state": "due now"
+  },
+  {
+   "item": "Tour-market geo campaigns queued (first date Oct 14)",
+   "due_days_before": 0,
+   "status": "label-internal",
+   "evidence": "",
+   "due": "2026-10-02",
+   "state": "due now"
+  },
+  {
+   "item": "Long-form press landed",
+   "due_days_before": 14,
+   "status": "done",
+   "evidence": "Billboard EP interview; NPR Tiny Desk June 12",
+   "due": "2026-09-18",
+   "state": "done"
+  },
+  {
+   "item": "Radio: focus track on Alt Airplay",
+   "due_days_before": 14,
+   "status": "done",
+   "evidence": "I Kinda Like That No. 15 Alt Airplay (chart dated Sept 26)",
+   "due": "2026-09-18",
+   "state": "done"
+  }
+ ],
+ "shortform": {
+  "followers": 1000000,
+  "hearts": 12300000,
+  "recent_count": 9,
+  "recent_median_plays": 8272,
+  "pinned_or_older": [
+   {
+    "posted": "2026-07-16T19:07:36.000Z",
+    "plays": 5200000,
+    "likes": 948300,
+    "comments": 17800,
+    "shares": 96800,
+    "text": "OUR NEXT SINGLE\u00a0\"I KINDA LIKE THAT\" IS OUT NEXT THURSDAY, JULY 23RD AT 3:00 PM ET / 12:00 PM PT \ud83d\udd25\ud83e\udd18\ud83c\udffe PRESAVE IN OUR BIO NOWWWW\n\n#poppunk #new",
+    "url": "https://www.tiktok.com/@theparadoxband/video/7663204530997300493"
+   },
+   {
+    "posted": "2025-04-23T17:19:02.000Z",
+    "plays": 10300000,
+    "likes": 1600000,
+    "comments": 32300,
+    "shares": 174500,
+    "text": "\u2018Do Me Like That\u2019 out now, link in bio\ud83e\udd1f\ud83c\udffd\ud83d\udd25 \n\n#theparadox #pop #punk #subaru #domelikethat #band #newsong ",
+    "url": "https://www.tiktok.com/@theparadoxband/video/7496559168078335274"
+   },
+   {
+    "posted": "2025-01-25T23:36:26.000Z",
+    "plays": 8300000,
+    "likes": 1600000,
+    "comments": 9183,
+    "shares": 169100,
+    "text": "And your stupid dog too \ud83e\udd2c\n\n#theparadox #poppunk #fyp #music #scoobydoo ",
+    "url": "https://www.tiktok.com/@theparadoxband/video/7464000950978645294"
+   }
+  ],
+  "recent": [
+   {
+    "posted": "2026-10-08T19:00:52.000Z",
+    "plays": 8218,
+    "likes": 1118,
+    "comments": 33,
+    "shares": 22,
+    "text": "when the breakup comes with curbside pick up \n\n#theparadox #poppunk #breakup #toxicex #fyp ",
+    "url": "https://www.tiktok.com/@theparadoxband/video/7694373884958657806"
+   },
+   {
+    "posted": "2026-10-07T20:03:01.000Z",
+    "plays": 3361,
+    "likes": 377,
+    "comments": 12,
+    "shares": 3,
+    "text": "tag your gardening partner in the comments and tell us your favorite spot to light up!\ud83e\udd18\ud83c\udffd\ud83c\udf33\ud83d\udca8\n#theparadox #poppunk #newmusic #band ",
+    "url": "https://www.tiktok.com/@theparadoxband/video/7694018852157394190"
+   },
+   {
+    "posted": "2026-10-05T20:03:02.000Z",
+    "plays": 19100,
+    "likes": 3001,
+    "comments": 73,
+    "shares": 69,
+    "text": "we\u2019re bored, tell us your best pop punk playlist names \u2b07\ufe0f\ud83e\udd18\ud83c\udffd\n#theparadox #poppunk #spotify #applemusic #playlist ",
+    "url": "https://www.tiktok.com/@theparadoxband/video/7693276661369883917"
+   },
+   {
+    "posted": "2026-10-03T19:00:00.000Z",
+    "plays": 8272,
+    "likes": 1073,
+    "comments": 85,
+    "shares": 22,
+    "text": "We're picking 1 random person who comments their favorite lyric from the new EP for a chance to win a signed \"Proceed with Caution\" vinyl\n#t",
+    "url": "https://www.tiktok.com/@theparadoxband/video/7692307126584184077"
+   },
+   {
+    "posted": "2026-10-02T14:12:41.000Z",
+    "plays": 6096,
+    "likes": 629,
+    "comments": 23,
+    "shares": 8,
+    "text": "We poured a lot of ourselves into this one.\n\nSwipe through to hear from each of us about making this project, the moments that stuck with us",
+    "url": "https://www.tiktok.com/@theparadoxband/video/7692073047343254797"
+   },
+   {
+    "posted": "2026-10-01T20:53:06.000Z",
+    "plays": 9106,
+    "likes": 821,
+    "comments": 29,
+    "shares": 16,
+    "text": "Our new EP \u201cProceed With Caution\u201d OUT TONIGHT AT MIDNIGHT \ud83e\udd18\ud83c\udffd\u26a0\ufe0f\ud83e\udee8\n#theparadox #poppunk #band #warpedtour #riotfest ",
+    "url": "https://www.tiktok.com/@theparadoxband/video/7691805279838604557"
+   },
+   {
+    "posted": "2026-09-30T19:01:02.000Z",
+    "plays": 50500,
+    "likes": 8045,
+    "comments": 194,
+    "shares": 224,
+    "text": "best answer wins absolutely nothing except our respect \ud83e\udee1 \u201cLiving Hell\u201d and our new EP \u201cProceed with Caution\u201d out this Friday #theparadox #po",
+    "url": "https://www.tiktok.com/@theparadoxband/video/7691405316780559630"
+   },
+   {
+    "posted": "2026-09-29T19:01:18.000Z",
+    "plays": 6074,
+    "likes": 485,
+    "comments": 14,
+    "shares": 6,
+    "text": "We\u2019ve been working all year to make our new EP \u201cProceed With Caution\u201d and it\u2019s finally coming out this Friday, and we wanted to take you thr",
+    "url": "https://www.tiktok.com/@theparadoxband/video/7691034204968160526"
+   }
+  ]
+ },
+ "brief": {
+  "paragraphs": [
+   "Proceed With Caution came out 7 days ago. This is release week; the numbers below are the first read. The artist sits at 836k monthly listeners and 336k Spotify followers.",
+   "Of the singles, I Kinda Like That is the one working: 3.9M plays in 78 days, about 50k a day on average, Spotify popularity 66. The newest single, That\u2019s Not Fair, is at 345k plays after 35 days, roughly 10k a day, which is 20% of I Kinda Like That's pace. That is a soft lead-in to the release and worth naming out loud rather than hoping it turns.",
+   "Of the brand-new tracks, Living Hell is the one listeners are picking: about 31k plays a day, popularity 55 after 7 days. That already outpaces Good For Me, That\u2019s Not Fair from the single campaign. The rest: Stoner Mentality (13k/day), It\u2019s Over (11k/day).",
+   "Catalog is doing real work: Do Me Like That still averages 42k plays a day 385 days after release, and the tracked catalog holds 34.9M plays. A new release lifts catalog if the catalog is easy to find from it.",
+   "Growing: Good For Me.",
+   "Audience versus routing: the top listener cities are Chicago (20k), Los Angeles (14k), New York City (14k), London (14k), Philadelphia (13k). Chicago is the number one city and has no tour date. That is either a routing gap or a second-leg market, and either way it is a geo-targeting priority.",
+   "Short-form: the last three weeks of TikTok posts are landing around 8k views each, against pinned posts at 10.3M. The account has 1.0M followers, so reach is there when the hook is. Release week needs a hook-led post plan, not announcement posts.",
+   "Release ops: 6 checklist items are inside their window and not visible from outside the label: Spotify editorial pitch (focus track); Apple Music / Amazon pitches; Canvas + lyrics synced (Musixmatch); Release-week content calendar locked. Worth a two-line confirm with whoever owns them."
+  ],
+  "actions": [
+   "Living Hell is the organic pick off the EP. Get it into the focus-track slot on the artist profile and the DSP follow-up pitches this week, and test it as the next radio or video candidate before the tour starts.",
+   "Make I Kinda Like That the anchor in every DSP pitch and ad creative for release week, not That\u2019s Not Fair. The data says which one people are choosing.",
+   "Put Do Me Like That and the next catalog track on Discovery Mode for release week, and make sure the artist profile pins the new EP above them.",
+   "Run tour-market geo ads in the routed cities from two weeks out, and treat Chicago, London as the first markets to test for a second leg."
+  ],
+  "notes": "Play counts are cumulative Spotify counts read from the public artist and album pages once a day. Spotify popularity is Spotify's own 0 to 100 recency-weighted score and moves before play counts do. Monthly listeners and follower counts come from public profiles. Nothing here uses label-internal data.",
+  "days_to_release": -7,
+  "generated": "2026-10-09",
+  "snapshot_days": 10
+ }
+}

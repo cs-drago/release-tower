@@ -1,0 +1,317 @@
+{
+  "artists": [
+    {
+      "slug": "the-paradox",
+      "name": "The Paradox",
+      "label": "Hundred Days Records / Virgin Music Group",
+      "spotify_artist_id": "6GhcI55xfZf5vqmmNqYzxW",
+      "instagram": "theparadoxband",
+      "tiktok": "theparadoxband",
+      "youtube": "@Theparadoxband",
+      "x": "TheParadoxBand1",
+      "release": {
+        "title": "Proceed With Caution",
+        "type": "EP",
+        "date": "2026-10-02",
+        "presave_url": "https://ffm.to/tppwc",
+        "focus_track": "I Kinda Like That",
+        "tracklist": [
+          "I Kinda Like That",
+          "Living Hell",
+          "That's Not Fair",
+          "Good For Me",
+          "Stoner Mentality",
+          "It's Over"
+        ],
+        "released_singles": [
+          {
+            "name": "Good For Me",
+            "track_id": "1OAMZ1AV5y6DHI5kzP0L3V",
+            "album_id": "4eQhubbT1QHzrBqAynOWhq",
+            "date": "2026-06-05"
+          },
+          {
+            "name": "I Kinda Like That",
+            "track_id": "0d1VAPSDzDRZMNIndiC2x2",
+            "album_id": "1JAdAgj3z46aOZl5KHk56x",
+            "date": "2026-07-23"
+          },
+          {
+            "name": "That's Not Fair",
+            "track_id": "3pap8PquQ7L1mW6xlL1tjF",
+            "album_id": "52ZpqSUggHtToG8r4FnbmC",
+            "date": "2026-09-04"
+          }
+        ],
+        "album_ids_to_track": [
+          "52ZpqSUggHtToG8r4FnbmC"
+        ],
+        "ep_album_id": "468Onsk0BAN3KorH6PrBfR"
+      },
+      "catalog_album_ids": [
+        "3bOpeEfsrkWun8uj5DMrJc"
+      ],
+      "catalog_note": "NSFW (debut EP, Sept 19 2025). Do Me Like That, Get The Message and Bender are the catalog engines.",
+      "checklist": [
+        {
+          "item": "Pre-save / pre-add live",
+          "due_days_before": 42,
+          "status": "done",
+          "evidence": "ffm.to/tppwc live in IG bio"
+        },
+        {
+          "item": "Tracklist public",
+          "due_days_before": 28,
+          "status": "done",
+          "evidence": "6 tracks listed by retailers"
+        },
+        {
+          "item": "Physical pre-order (vinyl, CD)",
+          "due_days_before": 42,
+          "status": "done",
+          "evidence": "Toxic green vinyl + CD on retailers"
+        },
+        {
+          "item": "Third single out",
+          "due_days_before": 28,
+          "status": "done",
+          "evidence": "That's Not Fair, Sept 4"
+        },
+        {
+          "item": "Spotify editorial pitch (focus track)",
+          "due_days_before": 7,
+          "status": "label-internal",
+          "evidence": "Spotify for Artists; ideally 3 to 4 weeks out"
+        },
+        {
+          "item": "Apple Music / Amazon pitches",
+          "due_days_before": 7,
+          "status": "label-internal",
+          "evidence": ""
+        },
+        {
+          "item": "Canvas + lyrics synced (Musixmatch)",
+          "due_days_before": 5,
+          "status": "label-internal",
+          "evidence": ""
+        },
+        {
+          "item": "Release-week content calendar locked",
+          "due_days_before": 7,
+          "status": "label-internal",
+          "evidence": ""
+        },
+        {
+          "item": "Discovery Mode set on catalog (Do Me Like That, Get The Message)",
+          "due_days_before": 3,
+          "status": "label-internal",
+          "evidence": ""
+        },
+        {
+          "item": "Tour-market geo campaigns queued (first date Oct 14)",
+          "due_days_before": 0,
+          "status": "label-internal",
+          "evidence": ""
+        },
+        {
+          "item": "Long-form press landed",
+          "due_days_before": 14,
+          "status": "done",
+          "evidence": "Billboard EP interview; NPR Tiny Desk June 12"
+        },
+        {
+          "item": "Radio: focus track on Alt Airplay",
+          "due_days_before": 14,
+          "status": "done",
+          "evidence": "I Kinda Like That No. 15 Alt Airplay (chart dated Sept 26)"
+        }
+      ],
+      "tour": [
+        {
+          "date": "2026-10-14",
+          "city": "Dallas",
+          "venue": "HOB Cambridge Room",
+          "sold_out": true
+        },
+        {
+          "date": "2026-10-15",
+          "city": "Houston",
+          "venue": "HOB Bronze Peacock",
+          "sold_out": true
+        },
+        {
+          "date": "2026-10-16",
+          "city": "Austin",
+          "venue": "3Ten",
+          "sold_out": true
+        },
+        {
+          "date": "2026-10-19",
+          "city": "Phoenix",
+          "venue": "Rebel Lounge",
+          "sold_out": true
+        },
+        {
+          "date": "2026-10-20",
+          "city": "San Diego",
+          "venue": "HOB Voodoo Room",
+          "sold_out": true
+        },
+        {
+          "date": "2026-10-22",
+          "city": "Los Angeles",
+          "venue": "Moroccan Lounge",
+          "sold_out": true
+        },
+        {
+          "date": "2026-10-23",
+          "city": "Los Angeles",
+          "venue": "Moroccan Lounge",
+          "sold_out": true
+        },
+        {
+          "date": "2026-10-25",
+          "city": "Salt Lake City",
+          "venue": "Kilby Court",
+          "sold_out": false
+        },
+        {
+          "date": "2026-10-27",
+          "city": "Denver",
+          "venue": "Marquis",
+          "sold_out": true
+        },
+        {
+          "date": "2026-10-30",
+          "city": "St. Louis",
+          "venue": "Off Broadway",
+          "sold_out": false
+        },
+        {
+          "date": "2026-10-31",
+          "city": "Milwaukee",
+          "venue": "Rave Bar",
+          "sold_out": false
+        },
+        {
+          "date": "2026-11-02",
+          "city": "Indianapolis",
+          "venue": "HI-FI",
+          "sold_out": false
+        },
+        {
+          "date": "2026-11-03",
+          "city": "Detroit",
+          "venue": "Sanctuary",
+          "sold_out": false
+        },
+        {
+          "date": "2026-11-04",
+          "city": "Columbus",
+          "venue": "A&R Music Bar",
+          "sold_out": false
+        },
+        {
+          "date": "2026-11-06",
+          "city": "Boston",
+          "venue": "Sonia",
+          "sold_out": true
+        },
+        {
+          "date": "2026-11-08",
+          "city": "New York City",
+          "venue": "Mercury Lounge",
+          "sold_out": true
+        },
+        {
+          "date": "2026-11-09",
+          "city": "New York City",
+          "venue": "Mercury Lounge",
+          "sold_out": true
+        },
+        {
+          "date": "2026-11-11",
+          "city": "Philadelphia",
+          "venue": "Warehouse on Watts",
+          "sold_out": true
+        },
+        {
+          "date": "2026-11-13",
+          "city": "Towson",
+          "venue": "The Recher",
+          "sold_out": true
+        },
+        {
+          "date": "2026-11-17",
+          "city": "Jacksonville",
+          "venue": "Jack Rabbits",
+          "sold_out": true
+        },
+        {
+          "date": "2026-11-18",
+          "city": "Atlanta",
+          "venue": "Masquerade (Hell)",
+          "sold_out": true
+        }
+      ],
+      "same_day_releases": [
+        "Dexter and the Moonrocks, debut LP 'Friends That I Don't Like' (Severance/Big Loud), also Oct 2"
+      ]
+    },
+    {
+      "slug": "alex-crichton",
+      "name": "Alex Crichton",
+      "label": "Warner Records",
+      "spotify_artist_id": "25JtC3l1STnE2GptoHKXdD",
+      "instagram": null,
+      "tiktok": null,
+      "youtube": null,
+      "x": null,
+      "release": {
+        "title": "What If I Call",
+        "type": "single",
+        "date": "2026-07-31",
+        "presave_url": null,
+        "focus_track": "What If I Call",
+        "tracklist": [
+          "What If I Call"
+        ],
+        "released_singles": [
+          {
+            "name": "What If I Call",
+            "track_id": "3zBdVzYsuqVPyMk1YFiPcg",
+            "album_id": "4yazxGFraz7lO9omZNEues",
+            "date": "2026-07-31"
+          },
+          {
+            "name": "Hide a Smile",
+            "track_id": "1CLuNQ39XNTw2558hczsv4",
+            "album_id": "0cdvzZDvGBQgUjVOn5U4b0",
+            "date": "2026-06-18"
+          },
+          {
+            "name": "Something's Wrong",
+            "track_id": "3a6UO52PjIsI53AHGdBrle",
+            "album_id": "3oLe51Hg28mVZytzuPGpUo",
+            "date": "2026-03-14"
+          }
+        ],
+        "album_ids_to_track": [
+          "4yazxGFraz7lO9omZNEues",
+          "0cdvzZDvGBQgUjVOn5U4b0",
+          "3oLe51Hg28mVZytzuPGpUo"
+        ],
+        "ep_album_id": null
+      },
+      "catalog_album_ids": [
+        "4tBtqVg9XCTtPkxHGynwNb",
+        "78jbxFombQ239BP49tLPHL",
+        "4PcwH71CEDE4WcfQBjLiHQ"
+      ],
+      "catalog_note": "Singles-only career since 2022. 'Merry Christmas, i miss you' (Dec 2024) is an evergreen seasonal engine.",
+      "checklist": [],
+      "tour": [],
+      "same_day_releases": []
+    }
+  ]
+}
