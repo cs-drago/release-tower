@@ -8,16 +8,25 @@ jobs:
     runs-on: ubuntu-latest
     env:
       VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+      HAVE_KEYS: ${{ secrets.APIFY_TOKEN }}
     permissions:
       contents: write
     steps:
+      - name: Check secrets
+        run: |
+          if [ -z "$HAVE_KEYS" ]; then echo "::notice::Secrets not set yet; nothing to do." && echo "SKIP=1" >> "$GITHUB_ENV"; fi
       - uses: actions/checkout@v4
+        if: env.SKIP != '1'
       - uses: actions/setup-python@v5
+        if: env.SKIP != '1'
         with: { python-version: "3.12" }
       - uses: actions/setup-node@v4
+        if: env.SKIP != '1'
         with: { node-version: "22" }
       - run: pip install httpx python-dotenv
+        if: env.SKIP != '1'
       - name: Collect + analyze + build
+        if: env.SKIP != '1'
         env:
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
@@ -27,7 +36,7 @@ jobs:
           python3 analyze.py > data/last-brief.txt
           python3 build_site.py
       - name: Deploy to Vercel
-        if: ${{ env.VERCEL_TOKEN != '' }}
+        if: env.SKIP != '1' && env.VERCEL_TOKEN != ''
         env:
           VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
           VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
@@ -36,6 +45,7 @@ jobs:
           cd site && vercel deploy --prod --yes --token "$VERCEL_TOKEN" > /dev/null
           sleep 3 && echo "HTTP $(curl -s -o /dev/null -w '%{http_code}' https://release-tower.vercel.app)"
       - name: Commit snapshots
+        if: env.SKIP != '1'
         run: |
           git config user.name "release-tower-bot"
           git config user.email "bot@users.noreply.github.com"
