@@ -39,17 +39,30 @@ Play counts are what any listener sees on Spotify: cumulative, exact, shown once
 
 Nothing here uses label-internal data. Checklist items the label owns are marked "label-internal" and shown as due or upcoming, never claimed as done or late.
 
-## Running it
+## Setting it up
+
+You need three keys. All are free tiers; the Apify one costs about two cents per artist per day.
+
+1. **Apify token.** Sign up at apify.com, then Settings, Integrations, API token. Add a few dollars of credit or use the free monthly allowance.
+2. **Spotify client ID and secret.** developer.spotify.com, Dashboard, Create app (any name, any redirect URI). Copy the client ID and client secret.
+3. Copy `.env.example` to `.env` in this folder and paste the three values in. `.env` is gitignored and never leaves your machine.
+
+Then:
 
 ```
 pip install httpx python-dotenv
-export APIFY_TOKEN=... SPOTIFY_CLIENT_ID=... SPOTIFY_CLIENT_SECRET=...
-python3 collect.py          # ~90 seconds, about two cents of Apify usage per artist
+python3 collect.py          # ~90 seconds, one dated snapshot per artist
 python3 analyze.py          # prints the brief
-python3 build_site.py       # writes site/
+python3 build_site.py       # writes site/, open site/index.html
 ```
 
-`deploy.sh` does all of that and pushes to Vercel. `.github/workflows/daily.yml` runs the same thing on a schedule with the three tokens plus a Vercel token stored as repository secrets.
+`deploy.sh` does all of that and publishes `site/` to Vercel (install the Vercel CLI, run `vercel link` inside `site/` once).
+
+### Running it in the cloud every morning
+
+Fork or clone this repo, then add repository secrets (Settings, Secrets and variables, Actions): `APIFY_TOKEN`, `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`. The workflow in `.github/workflows/daily.yml` runs at 8am Pacific, commits the new snapshot, and skips quietly until the secrets exist. To publish the page too, add `VERCEL_TOKEN` (vercel.com, Account, Tokens), `VERCEL_ORG_ID` and `VERCEL_PROJECT_ID` (both in `site/.vercel/project.json` after `vercel link`).
+
+No keys belonging to anyone else are in this repo, and the daily snapshots committed here were collected with the author's own.
 
 To add an artist, add an entry to `releases.json`: Spotify artist ID, the singles already out (track and album IDs), the release date and tracklist, and optionally a checklist and tour dates. The EP or album is detected automatically when it appears on Spotify.
 

@@ -43,7 +43,7 @@ jobs:
         run: |
           npm i -g vercel@latest > /dev/null
           cd site && vercel deploy --prod --yes --token "$VERCEL_TOKEN" > /dev/null
-          sleep 3 && echo "HTTP $(curl -s -o /dev/null -w '%{http_code}' https://release-tower.vercel.app)"
+          echo "deployed"
       - name: Commit snapshots
         if: env.SKIP != '1'
         run: |

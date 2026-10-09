@@ -20,8 +20,9 @@ from dotenv import load_dotenv
 
 HERE = pathlib.Path(__file__).resolve().parent
 ROOT = HERE.parent.parent
-load_dotenv(ROOT / ".env")
-load_dotenv(ROOT / "demo" / "aandr-radar" / ".env")
+load_dotenv(HERE / ".env")                              # this folder (see .env.example)
+load_dotenv(ROOT / ".env")                              # optional: a parent-folder .env
+load_dotenv(ROOT / "demo" / "aandr-radar" / ".env")     # optional: legacy location
 
 APIFY = os.getenv("APIFY_TOKEN", "").strip()
 SP_ID = os.getenv("SPOTIFY_CLIENT_ID", "")
