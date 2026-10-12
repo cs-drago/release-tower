@@ -2,7 +2,9 @@
 
 A daily release monitor for a label product manager or A&R ops lead. Once a day it reads public data for each artist, works out what is working and what is fading, and writes a plain-English brief with a short "do this week" list.
 
-Live: **https://release-tower.vercel.app**
+Live: **https://release-tower.vercel.app/the-paradox** · **https://release-tower.vercel.app/alex-crichton**
+
+Each artist gets a standalone page, shared by direct link. The root URL is a neutral landing.
 
 Currently tracking The Paradox, *Proceed With Caution* (Hundred Days / Virgin, out Oct 2 2026), with a nine-day pre-release baseline and release week on the same page, and Alex Crichton (Warner) as a second artist.
 

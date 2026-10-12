@@ -140,7 +140,6 @@ def render(rep, nav):
     tour_html = "".join(tr)
 
     sold = sum(1 for t in r["tour"] if t["sold_out"])
-    nav_html = " ".join(f"<a href='{e(h)}' class='{'on' if h == nav['current'] else ''}'>{e(n)}</a>" for n, h in nav["links"])
     sp_url = f"https://open.spotify.com/artist/{r['spotify_artist_id']}"
 
     return f"""<!doctype html>
@@ -212,7 +211,6 @@ footer p{{margin:0 0 8px}}
 </head>
 <body>
 <div class="wrap">
-<nav>{nav_html}</nav>
 <header>
   <div>
     <div class="eyebrow">Release Tower · {e(r['label'])}</div>
@@ -272,19 +270,26 @@ footer p{{margin:0 0 8px}}
 </html>"""
 
 
+LANDING = """<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow"><title>Release Tower</title>
+<style>:root{--bg:#F3F5F7;--ink:#14202B;--muted:#5C6B78}@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0F161D;--ink:#E7EDF2;--muted:#94A3B1}}:root[data-theme="dark"]{--bg:#0F161D;--ink:#E7EDF2;--muted:#94A3B1}
+body{margin:0;min-height:100vh;display:grid;place-items:center;background:var(--bg);color:var(--ink);font-family:system-ui,sans-serif;padding:16px}p{color:var(--muted);max-width:40ch;text-align:center;line-height:1.5}</style></head>
+<body><div><h1 style="margin:0 0 8px;text-align:center">Release Tower</h1><p>Daily release monitors for individual artists. Each page is shared by direct link.</p></div></body></html>"""
+
+
 def main():
+    """One standalone page per artist at site/<slug>.html, no cross-links. Root is a neutral landing."""
     cfg = json.load(open(HERE / "releases.json"))
-    reports = []
     for a in cfg["artists"]:
         p = HERE / "data" / f"report-{a['slug']}.json"
-        if p.exists():
-            reports.append(json.load(open(p)))
-    links = [(r["artist"], "index.html" if i == 0 else f"{r['slug']}.html") for i, r in enumerate(reports)]
-    for i, r in enumerate(reports):
-        fn = "index.html" if i == 0 else f"{r['slug']}.html"
-        out = render(r, {"links": links, "current": fn})
-        (SITE / fn).write_text(out)
-        print("wrote", SITE / fn, len(out), "bytes")
+        if not p.exists():
+            continue
+        r = json.load(open(p))
+        out = render(r, None)
+        (SITE / f"{r['slug']}.html").write_text(out)
+        print("wrote", SITE / f"{r['slug']}.html", len(out), "bytes")
+    (SITE / "index.html").write_text(LANDING)
+    print("wrote", SITE / "index.html", "(landing)")
 
 
 if __name__ == "__main__":
