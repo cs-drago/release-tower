@@ -1,0 +1,475 @@
+{
+ "date": "2026-10-12",
+ "collected_at": "2026-10-12T14:07:39",
+ "artist": "The Paradox",
+ "slug": "the-paradox",
+ "spotify": {
+  "followers": 337314,
+  "popularity": 57,
+  "genres": [
+   "pop punk"
+  ],
+  "monthly_listeners": 847746,
+  "world_rank": null,
+  "top_cities": [
+   {
+    "city": "Chicago",
+    "country": "US",
+    "region": "IL",
+    "listeners": 20367
+   },
+   {
+    "city": "Los Angeles",
+    "country": "US",
+    "region": "CA",
+    "listeners": 14526
+   },
+   {
+    "city": "New York City",
+    "country": "US",
+    "region": "NY",
+    "listeners": 14317
+   },
+   {
+    "city": "London",
+    "country": "GB",
+    "region": "ENG",
+    "listeners": 13816
+   },
+   {
+    "city": "Philadelphia",
+    "country": "US",
+    "region": "PA",
+    "listeners": 12860
+   }
+  ],
+  "external_links": [
+   {
+    "name": "INSTAGRAM",
+    "url": "https://instagram.com/theparadoxband"
+   },
+   {
+    "name": "TIKTOK",
+    "url": "https://tiktok.com/@theparadoxband"
+   },
+   {
+    "name": "TWITTER",
+    "url": "https://twitter.com/theparadoxband1"
+   }
+  ],
+  "top_tracks": [
+   {
+    "id": "0d1VAPSDzDRZMNIndiC2x2",
+    "name": "I Kinda Like That",
+    "plays": 4039261
+   },
+   {
+    "id": "1y6lq1wrAspWEgRJmYb11S",
+    "name": "Do Me Like That",
+    "plays": 16335988
+   },
+   {
+    "id": "78APbsosmvDYIwZHjzC5ZE",
+    "name": "Bender (feat. Travis Barker)",
+    "plays": 6250232
+   },
+   {
+    "id": "1OAMZ1AV5y6DHI5kzP0L3V",
+    "name": "Good For Me",
+    "plays": 1881075
+   },
+   {
+    "id": "354WZaV3u6cuzTG2PmpYwm",
+    "name": "Get The Message",
+    "plays": 6206740
+   },
+   {
+    "id": "48c7OG5qnI46q1GkspLrXv",
+    "name": "Living Hell",
+    "plays": 280346
+   },
+   {
+    "id": "6FVeZfWkYtDiyyq93dBSXU",
+    "name": "Ms. Lauren",
+    "plays": 5405718
+   },
+   {
+    "id": "3pap8PquQ7L1mW6xlL1tjF",
+    "name": "That\u2019s Not Fair",
+    "plays": 362858
+   },
+   {
+    "id": "0ZrA247YJ9XkdNK5L6533W",
+    "name": "Do It Again",
+    "plays": 3084800
+   },
+   {
+    "id": "6KeyiDe4mTcz75j60mMdkM",
+    "name": "Imani",
+    "plays": 3552106
+   }
+  ]
+ },
+ "discography": [
+  {
+   "id": "468Onsk0BAN3KorH6PrBfR",
+   "name": "Proceed With Caution",
+   "type": "single",
+   "release_date": "2026-10-02",
+   "total_tracks": 6
+  },
+  {
+   "id": "52ZpqSUggHtToG8r4FnbmC",
+   "name": "That\u2019s Not Fair",
+   "type": "single",
+   "release_date": "2026-09-04",
+   "total_tracks": 3
+  },
+  {
+   "id": "1JAdAgj3z46aOZl5KHk56x",
+   "name": "I Kinda Like That",
+   "type": "single",
+   "release_date": "2026-07-23",
+   "total_tracks": 2
+  },
+  {
+   "id": "4eQhubbT1QHzrBqAynOWhq",
+   "name": "Good For Me",
+   "type": "single",
+   "release_date": "2026-06-05",
+   "total_tracks": 1
+  },
+  {
+   "id": "3bOpeEfsrkWun8uj5DMrJc",
+   "name": "NSFW",
+   "type": "single",
+   "release_date": "2025-09-19",
+   "total_tracks": 6
+  },
+  {
+   "id": "49NpPolZdtpdgjddYkN7pe",
+   "name": "Do It Again",
+   "type": "single",
+   "release_date": "2025-08-29",
+   "total_tracks": 4
+  },
+  {
+   "id": "5vKJnMy2A7hDkbWffp5vek",
+   "name": "Bender (feat. Travis Barker)",
+   "type": "single",
+   "release_date": "2025-07-25",
+   "total_tracks": 1
+  },
+  {
+   "id": "4U1dfEX1jrOr0mo0jAuL35",
+   "name": "Get The Message",
+   "type": "single",
+   "release_date": "2025-06-13",
+   "total_tracks": 2
+  },
+  {
+   "id": "0K6JEVAdFzj7ZVT2raDeYr",
+   "name": "Do Me Like That",
+   "type": "single",
+   "release_date": "2025-04-25",
+   "total_tracks": 1
+  },
+  {
+   "id": "0s0Fr4msO4F7WN4dmuNbE6",
+   "name": "Ms. Lauren",
+   "type": "single",
+   "release_date": "2024-10-19",
+   "total_tracks": 1
+  },
+  {
+   "id": "09qnCWzfHvy2LqfCob1gDj",
+   "name": "Imani",
+   "type": "single",
+   "release_date": "2024-08-02",
+   "total_tracks": 1
+  }
+ ],
+ "track_popularity": {
+  "0PRUObTnEluxW0lgkykCDw": 48,
+  "48c7OG5qnI46q1GkspLrXv": 56,
+  "79uhFZlmqp7HAsCXBDoxiJ": 45,
+  "23C5ZTo8UFClj8S47zkGmA": 45,
+  "0vriIdU6ooX08NincbQncn": 50,
+  "2ByB87X3vAVcNpyeu4rEyj": 49,
+  "3pap8PquQ7L1mW6xlL1tjF": 52,
+  "0gEb5ZuJUu1zSvuMoDT0qW": 33,
+  "5Aa2GKfzbmpsso5wmDPhoi": 31,
+  "1CEICqf8KT6az8dfrx99TV": 36,
+  "5D9S7FCULb52WBjAc3HabL": 35,
+  "6bF9CZB2b9R2SNaudpayNO": 49,
+  "4ljnqQLIZomfVcuKhY59MO": 37,
+  "5x3aWE1Fu1Cn9Q3tJipWbQ": 49,
+  "4lSVxmXuiXx7d4KKjRkl7Y": 34,
+  "0d1VAPSDzDRZMNIndiC2x2": 66,
+  "5ILlwIRE7fnwpipzfbb5O4": 37
+ },
+ "track_plays": {
+  "0d1VAPSDzDRZMNIndiC2x2": {
+   "name": "I Kinda Like That",
+   "plays": 4039261,
+   "album": "I Kinda Like That",
+   "album_release": "2026-07-23",
+   "label": "Hundred Days Records, LLC",
+   "source": "sourabhbgp"
+  },
+  "5ILlwIRE7fnwpipzfbb5O4": {
+   "name": "Good For Me",
+   "plays": 1881075,
+   "album": "I Kinda Like That",
+   "album_release": "2026-07-23",
+   "label": "Hundred Days Records, LLC",
+   "source": "sourabhbgp"
+  },
+  "1CEICqf8KT6az8dfrx99TV": {
+   "name": "Get The Message",
+   "plays": 6206740,
+   "album": "NSFW",
+   "album_release": "2025-09-19",
+   "label": "Hundred Days Records, LLC",
+   "source": "sourabhbgp"
+  },
+  "5D9S7FCULb52WBjAc3HabL": {
+   "name": "Do It Again",
+   "plays": 3084800,
+   "album": "NSFW",
+   "album_release": "2025-09-19",
+   "label": "Hundred Days Records, LLC",
+   "source": "sourabhbgp"
+  },
+  "6bF9CZB2b9R2SNaudpayNO": {
+   "name": "Leave My Room",
+   "plays": 1793409,
+   "album": "NSFW",
+   "album_release": "2025-09-19",
+   "label": "Hundred Days Records, LLC",
+   "source": "sourabhbgp"
+  },
+  "4ljnqQLIZomfVcuKhY59MO": {
+   "name": "Bender (feat. Travis Barker)",
+   "plays": 6250232,
+   "album": "NSFW",
+   "album_release": "2025-09-19",
+   "label": "Hundred Days Records, LLC",
+   "source": "sourabhbgp"
+  },
+  "5x3aWE1Fu1Cn9Q3tJipWbQ": {
+   "name": "No Strings Attached",
+   "plays": 1400122,
+   "album": "NSFW",
+   "album_release": "2025-09-19",
+   "label": "Hundred Days Records, LLC",
+   "source": "sourabhbgp"
+  },
+  "4lSVxmXuiXx7d4KKjRkl7Y": {
+   "name": "Do Me Like That",
+   "plays": 16335988,
+   "album": "NSFW",
+   "album_release": "2025-09-19",
+   "label": "Hundred Days Records, LLC",
+   "source": "sourabhbgp"
+  },
+  "0PRUObTnEluxW0lgkykCDw": {
+   "name": "I Kinda Like That",
+   "plays": 4039261,
+   "album": "Proceed With Caution",
+   "album_release": "2026-10-02",
+   "label": "Hundred Days Records, LLC",
+   "source": "sourabhbgp"
+  },
+  "48c7OG5qnI46q1GkspLrXv": {
+   "name": "Living Hell",
+   "plays": 280346,
+   "album": "Proceed With Caution",
+   "album_release": "2026-10-02",
+   "label": "Hundred Days Records, LLC",
+   "source": "sourabhbgp"
+  },
+  "79uhFZlmqp7HAsCXBDoxiJ": {
+   "name": "That\u2019s Not Fair",
+   "plays": 362858,
+   "album": "Proceed With Caution",
+   "album_release": "2026-10-02",
+   "label": "Hundred Days Records, LLC",
+   "source": "sourabhbgp"
+  },
+  "23C5ZTo8UFClj8S47zkGmA": {
+   "name": "Good For Me",
+   "plays": 1881075,
+   "album": "Proceed With Caution",
+   "album_release": "2026-10-02",
+   "label": "Hundred Days Records, LLC",
+   "source": "sourabhbgp"
+  },
+  "0vriIdU6ooX08NincbQncn": {
+   "name": "Stoner Mentality",
+   "plays": 112060,
+   "album": "Proceed With Caution",
+   "album_release": "2026-10-02",
+   "label": "Hundred Days Records, LLC",
+   "source": "sourabhbgp"
+  },
+  "2ByB87X3vAVcNpyeu4rEyj": {
+   "name": "It\u2019s Over",
+   "plays": 98594,
+   "album": "Proceed With Caution",
+   "album_release": "2026-10-02",
+   "label": "Hundred Days Records, LLC",
+   "source": "sourabhbgp"
+  },
+  "3pap8PquQ7L1mW6xlL1tjF": {
+   "name": "That\u2019s Not Fair",
+   "plays": 362858,
+   "album": "That\u2019s Not Fair",
+   "album_release": "2026-09-04",
+   "label": "Hundred Days Records, LLC",
+   "source": "sourabhbgp"
+  },
+  "0gEb5ZuJUu1zSvuMoDT0qW": {
+   "name": "I Kinda Like That",
+   "plays": 4039261,
+   "album": "That\u2019s Not Fair",
+   "album_release": "2026-09-04",
+   "label": "Hundred Days Records, LLC",
+   "source": "sourabhbgp"
+  },
+  "5Aa2GKfzbmpsso5wmDPhoi": {
+   "name": "Good For Me",
+   "plays": 1881075,
+   "album": "That\u2019s Not Fair",
+   "album_release": "2026-09-04",
+   "label": "Hundred Days Records, LLC",
+   "source": "sourabhbgp"
+  }
+ },
+ "plays_source": "sourabhbgp",
+ "handles": {
+  "instagram": "theparadoxband",
+  "tiktok": "theparadoxband"
+ },
+ "instagram": {
+  "followers": 1312493,
+  "posts": 379,
+  "bio_link": "https://ffm.to/tppwc",
+  "verified": true
+ },
+ "tiktok": {
+  "fans": 1000000,
+  "hearts": 12400000,
+  "videos": 240,
+  "recent": [
+   {
+    "posted": "2026-07-16T19:07:36.000Z",
+    "plays": 5200000,
+    "likes": 949300,
+    "comments": 17800,
+    "shares": 96900,
+    "text": "OUR NEXT SINGLE\u00a0\"I KINDA LIKE THAT\" IS OUT NEXT THURSDAY, JULY 23RD AT 3:00 PM ET / 12:00 PM PT \ud83d\udd25\ud83e\udd18\ud83c\udffe PRESAVE IN OUR BIO NOWWWW\n\n#poppunk #new",
+    "url": "https://www.tiktok.com/@theparadoxband/video/7663204530997300493"
+   },
+   {
+    "posted": "2025-04-23T17:19:02.000Z",
+    "plays": 10300000,
+    "likes": 1600000,
+    "comments": 32300,
+    "shares": 174500,
+    "text": "\u2018Do Me Like That\u2019 out now, link in bio\ud83e\udd1f\ud83c\udffd\ud83d\udd25 \n\n#theparadox #pop #punk #subaru #domelikethat #band #newsong ",
+    "url": "https://www.tiktok.com/@theparadoxband/video/7496559168078335274"
+   },
+   {
+    "posted": "2025-01-25T23:36:26.000Z",
+    "plays": 8300000,
+    "likes": 1600000,
+    "comments": 9181,
+    "shares": 169100,
+    "text": "And your stupid dog too \ud83e\udd2c\n\n#theparadox #poppunk #fyp #music #scoobydoo ",
+    "url": "https://www.tiktok.com/@theparadoxband/video/7464000950978645294"
+   },
+   {
+    "posted": "2026-10-09T22:41:10.000Z",
+    "plays": 368700,
+    "likes": 79900,
+    "comments": 924,
+    "shares": 4021,
+    "text": "I KINDA LIKE THAT \ud83e\udd18\ud83c\udffd \n\n#theparadox #band #poppunk ",
+    "url": "https://www.tiktok.com/@theparadoxband/video/7694801767124569357"
+   },
+   {
+    "posted": "2026-10-08T19:00:52.000Z",
+    "plays": 16700,
+    "likes": 1953,
+    "comments": 43,
+    "shares": 46,
+    "text": "when the breakup comes with curbside pick up \n\n#theparadox #poppunk #breakup #toxicex #fyp ",
+    "url": "https://www.tiktok.com/@theparadoxband/video/7694373884958657806"
+   },
+   {
+    "posted": "2026-10-07T20:03:01.000Z",
+    "plays": 7077,
+    "likes": 596,
+    "comments": 17,
+    "shares": 10,
+    "text": "tag your gardening partner in the comments and tell us your favorite spot to light up!\ud83e\udd18\ud83c\udffd\ud83c\udf33\ud83d\udca8\n#theparadox #poppunk #newmusic #band ",
+    "url": "https://www.tiktok.com/@theparadoxband/video/7694018852157394190"
+   },
+   {
+    "posted": "2026-10-05T20:03:02.000Z",
+    "plays": 23300,
+    "likes": 3437,
+    "comments": 79,
+    "shares": 79,
+    "text": "we\u2019re bored, tell us your best pop punk playlist names \u2b07\ufe0f\ud83e\udd18\ud83c\udffd\n#theparadox #poppunk #spotify #applemusic #playlist ",
+    "url": "https://www.tiktok.com/@theparadoxband/video/7693276661369883917"
+   },
+   {
+    "posted": "2026-10-03T19:00:00.000Z",
+    "plays": 10700,
+    "likes": 1228,
+    "comments": 90,
+    "shares": 29,
+    "text": "We're picking 1 random person who comments their favorite lyric from the new EP for a chance to win a signed \"Proceed with Caution\" vinyl\n#t",
+    "url": "https://www.tiktok.com/@theparadoxband/video/7692307126584184077"
+   },
+   {
+    "posted": "2026-10-02T14:12:41.000Z",
+    "plays": 7976,
+    "likes": 701,
+    "comments": 23,
+    "shares": 9,
+    "text": "We poured a lot of ourselves into this one.\n\nSwipe through to hear from each of us about making this project, the moments that stuck with us",
+    "url": "https://www.tiktok.com/@theparadoxband/video/7692073047343254797"
+   },
+   {
+    "posted": "2026-10-01T20:53:06.000Z",
+    "plays": 10600,
+    "likes": 865,
+    "comments": 29,
+    "shares": 19,
+    "text": "Our new EP \u201cProceed With Caution\u201d OUT TONIGHT AT MIDNIGHT \ud83e\udd18\ud83c\udffd\u26a0\ufe0f\ud83e\udee8\n#theparadox #poppunk #band #warpedtour #riotfest ",
+    "url": "https://www.tiktok.com/@theparadoxband/video/7691805279838604557"
+   },
+   {
+    "posted": "2026-09-30T19:01:02.000Z",
+    "plays": 53400,
+    "likes": 8337,
+    "comments": 198,
+    "shares": 229,
+    "text": "best answer wins absolutely nothing except our respect \ud83e\udee1 \u201cLiving Hell\u201d and our new EP \u201cProceed with Caution\u201d out this Friday #theparadox #po",
+    "url": "https://www.tiktok.com/@theparadoxband/video/7691405316780559630"
+   },
+   {
+    "posted": "2026-09-29T19:01:18.000Z",
+    "plays": 7375,
+    "likes": 541,
+    "comments": 14,
+    "shares": 6,
+    "text": "We\u2019ve been working all year to make our new EP \u201cProceed With Caution\u201d and it\u2019s finally coming out this Friday, and we wanted to take you thr",
+    "url": "https://www.tiktok.com/@theparadoxband/video/7691034204968160526"
+   }
+  ]
+ }
+}
